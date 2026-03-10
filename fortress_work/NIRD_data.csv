@@ -1,0 +1,636 @@
+﻿STATE_FULL,STATE,COUNTY,ADDRESS,CITY,ZIP_CODE,AHA_ID,HOSPITAL_NAME,TOTAL_BEDS,BURN_BEDS,TRAUMA_ADULT,TRAUMA_PEDS,BURN_ADULT,BURN_PEDS,ACS_VERIFIED,ADULT_TRAUMA_L1,ADULT_TRAUMA_L2,PEDS_TRAUMA_L1,PEDS_TRAUMA_L2,ABA_VERIFIED,TC_STATE_DESIGNATED,BC_STATE_DESIGNATED,PHONE
+Alaska,AK,Anchorage,4315 Diplomacy Dr,Anchorage,99508,6940010,Alaska Native Medical Center,173,,1,1,,,Yes,,1,,1,,Yes,,(907) 563-2662
+Alaska,AK,Anchorage,3200 Providence Dr,Anchorage,99508,6940020,Providence Alaska Medical Center/Children's Hospital at Providence,401,,1,1,,,Yes,,1,,1,,Yes,,(907) 562-2211
+Alabama,AL,Houston,1108 Ross Clark Cir,Dothan,36301,6530373,Southeast Alabama Medical Center,387,,1,,,,No,,1,,,,Yes ,,(334) 793-8111
+Alabama,AL,Jefferson,619 19th St S,Birmingham,35233,6530304,University of Alabama at Birmingham Hospital (UAB Burn Center),1157,28,1,,1,,Yes,1,,,,No,Yes ,No,(205) 934-3411
+Alabama,AL,Jefferson,1600 7th Ave South,Birmingham,35233,6530170,Children's of Alabama (Children's of Alabama Burn Center),351,6,,1,,1,No,,,1,,No,Yes ,No,(205) 638-9100
+Alabama,AL,Madison,101 Sivley Rd,Huntsville,35801,6530510,Huntsville Hospital ,958,,1,,,,No,1,,,,,Yes ,,(256) 265-1000
+Alabama,AL,Mobile,2451 University Hospital Dr,Mobile,36617,6530600,USA Health University Hospital (Arnold Luterman Regional Burn Center),214,18,1,,1,,No,1,,,,No,Yes ,No,(251) 471-7000
+Alabama,AL,Montgomery,2105 E South Blvd,Montgomery,36116,6530705,Baptist Medical Center South ,492,,1,,,,No,,1,,,,Yes ,,(334) 288-2100
+Arizona,AZ,Coconino,1200 N Beaver St,Flagstaff,86001,6860021,Flagstaff Medical Center,268,,1,,,,Yes,,1,,,,Yes,,(928) 779-3366
+Arizona,AZ,Maricopa,1955 W Frye Rd,Chandler,85224,6860028,Chandler Regional Medical Center,338,,1,,,,Yes,1,,,,,Yes,,(480) 728-3000
+Arizona,AZ,Maricopa,5555 W Thunderbird Rd,Glendale,85306,6860013,Banner Thunderbird Medical Center,595,,1,,,,Yes,,1,,,,Yes,,(602) 865-5555
+Arizona,AZ,Maricopa,13677 W McDowell Rd,Goodyear,85395,6860027,Abrazo West Campus,188,,1,,,,Yes,,1,,,,Yes,,(623) 882-1500
+Arizona,AZ,Maricopa,1400 S Dobson Rd,Mesa,85202,6860016,Banner Desert Medical Center/Banner Children's at Desert,605,,1,1,,,Yes,,1,,1,,Yes,,(480) 412-3000
+Arizona,AZ,Maricopa,1111 E McDowell Rd,Phoenix,85006,6860250,Banner University Medical Center - Phoenix,698,,1,,,,Yes,1,,,,,Yes,,(602) 239-2000
+Arizona,AZ,Maricopa,350 W Thomas Rd,Phoenix,85013,6860280,St. Joseph's Hospital and Medical Center,594,,1,,,,Yes,1,,,,,Yes,,(602) 406-3000
+Arizona,AZ,Maricopa,19829 North 27th Ave,Phoenix,85027,6860325,HonorHealth Deer Valley Medical Center,204,,1,,,,Yes,,1,,,,Yes,,(623) 879-6100
+Arizona,AZ,Maricopa,250 E Dunlap Ave,Phoenix,85020,6860253,HonorHealth John C. Lincoln Medical Center,262,,1,,,,Yes,1,,,,,Yes,,(602) 943-2381
+Arizona,AZ,Maricopa,1919 E Thomas Rd,Phoenix,85016,6860210,Phoenix Children's Hospital,403,,,1,,,Yes,,,1,,,Yes,,(602) 933-1000
+Arizona,AZ,Maricopa,2601 E Roosevelt St,Phoenix,85008,6860255,Valleywise Health (Arizona Burn Center),544,45,1,,1,1,Yes,1,,,,Yes,Yes,No,(602) 344-5011
+Arizona,AZ,Maricopa,7400 E Osborn Rd,Scottsdale,85251,6860376,HonorHealth Scottsdale Osborn Medical Center,341,,1,,,,Yes,1,,,,,Yes,,(480) 882-4000
+Arizona,AZ,Pima,1501 N Campbell Ave,Tucson,85719,6860516,Banner University Medical Center - Tucson (Burn Unit at Banner),584,35,1,1,1,1,Yes,1,,,1,No ,Yes,No,(520) 694-0111
+Arizona,AZ,Pima,350 N Wilmot Rd,Tucson,85718,6860460,Carondelet St. Joseph's Hospital,486,,1,,,,No,1,,,,,Yes,,(520) 873-3000
+Arkansas,AR,Garland,300 Werner St,Hot Springs,71913,6710300,CHI St. Vincent Hospital Hot Springs,254,,1,,,,No,,1,,,,Yes,,(501) 622-1000
+Arkansas,AR,Pulaski,1 Children's Way,Little Rock ,72202,6710340,Arkansas Children's Hospital (Arkansas Children's Hospital Burn Center),336,10,,1,1,1,Yes,,,1,,No,Yes,No,(501) 364-1323
+Arkansas,AR,Pulaski,4301 W Markham St,Little Rock ,72205,6710440,UAMS Medical Center,522,,1,,,,Yes,1,,,,,Yes,,(501) 686-7000
+Arkansas,AR,Pulaski,9601 Baptist Health Dr,Little Rock,72205,6710335,Baptist Health Medical Center,740,,1,,,,No,,1,,,,Yes,,(501) 202-2000
+Arkansas,AR,Pulaski,2 St Vincent Circle,Little Rock,72205,6710400,CHI St. Vincent Infirmary ,600,,1,,,,No,,1,,,,Yes,,(501) 552-3000
+Arkansas,AR,Washington,3215 N Northhills Blvd,Fayetteville,72703,6710195,Washington Regional Medical Center,342,,1,,,,No,,1,,,,Yes,,(479) 463-1000
+California,CA,Alameda,1411 East 31st St,Oakland,94602,6930275,Highland Hospital,438,,1,,,,Yes,1,,,,,Yes,,(510) 437-4800
+California,CA,Alameda,20103 Lake Chabot Rd,Castro Valley,94546,6930133,Sutter Health Eden Medical Center,122,,1,,,,Yes,,1,,,,Yes,,(510) 537-1234
+California,CA,Alameda,747 52nd St,Oakland,94609,6932180,UCSF Benioff Children's Hospital Oakland,191,,,1,,,Yes,,,1,,,Yes,,(510) 428-3000
+California,CA,Butte ,1531 Esplanade,Chico,95926,6930096,Enloe Medical Center,229,,1,,,,Yes,,1,,,,Yes,,(530) 332-7300
+California,CA,Contra Costa,1601 Ygnacio Valley Rd,Walnut Creek,94598,6933853,"John Muir Medical Center, Walnut Creek",420,,1,,,,Yes,,1,,,,Yes,,(925) 939-3000
+California,CA,Fresno,2823 Fresno St,Fresno,93721,6930790,Community Regional Medical Center (Leon S. Peters Burn Center),852,10,1,,1,1,Yes,1,,,,Yes,Yes,Yes,(559) 459-6000
+California,CA,Kern,420 34th St,Bakersfield,93301,6930079,The Grossman Burn Center at Bakersfield Memorial Hospital ,372,7,,,1,1,,,,,,Yes ,,Yes,(661) 323-2876
+California,CA,Los Angeles,1600 West Avenue J,Lancaster,93534,6931178,Antelope Valley Hospital ,368,,1,,,,Yes,,1,,,,Yes,,(661) 949-5000
+California,CA,Los Angeles,8700 Beverly Blvd,West Hollywood,90048,6930444,Cedar-Sinai Medical Center,889,,1,,,,Yes,1,,,,,Yes,,(310) 423-5000
+California,CA,Los Angeles,4650 Sunset Blvd,Los Angeles ,90027,6931470,Children's Hospital Los Angeles,379,,,1,,,Yes,,,1,,,Yes,,(323) 660-2450
+California,CA,Los Angeles,1798 North Garey Ave,Pomona,91767,6932450,Pomona Valley Hospital Medical Center,412,,1,,,,Yes,,1,,,,Yes,,(909) 865-9500
+California,CA,Los Angeles,3630 East Imperial Hwy,Lynwood,90262,6931790,St. Francis Medical Center Lynwood,323,,1,,,,Yes,,1,,,,Yes,,(310) 900-8900
+California,CA,Los Angeles,15031 Rinaldi St,Mission Hills,91345,6932860,Providence Holy Cross Medical Center,377,,1,,,,Yes,,1,,,,Yes,,(818) 365-8051
+California,CA,Los Angeles,757 Westwood Plaza,Los Angeles,90095,6931755,Ronald Reagan UCLA Medical Center,445,,1,,,,Yes,1,,,,,Yes,,(310) 825-9111
+California,CA,Los Angeles,7300 Medical Center Dr,West Hills,91307,6930379,The Grossman Burn Center at West Hills Hospital & Medical Center ,225,8,,,1,,,,,,,Yes,,Yes,(818) 676-4177
+California,CA,Los Angeles,3330 Lomita Blvd,Torrance,90505,6933679,Torrance Memorial Burn Center,436,12,,,1,1,,,,,,Yes,,Yes,(310) 517-4622
+California,CA,Los Angeles ,1401 S Grand Ave,Los Angeles,90015,6931440,California Hospital Medical Center,318,,1,,,,Yes,,1,,,,Yes,,(213) 748-2411
+California,CA,Los Angeles ,18300 Roscoe Blvd,Northridge ,91335,6932118,Northridge Hospital Medical Center,394,,1,,,,Yes,,1,,,,Yes,,(818) 885-8500
+California,CA,Los Angeles ,1000 W Carson St,Torrance,90502,6933683,Harbor-UCLA Medical Center,453,,1,,,,Yes,1,,,,,Yes,,(310)222-2345
+California,CA,Los Angeles ,23845 McBean Pkwy,Valencia,91355,6933488,Henry Mayo Newhall Hospital,238,,1,,,,Yes,,1,,,,Yes,,(661) 200-2000
+California,CA,Los Angeles ,100 W California Blvd,Pasadena,91105,6932350,Huntington Hospital,619,,1,,,,Yes,,1,,,,Yes,,(626) 397-5000
+California,CA,Los Angeles ,1200 N State St,Los Angeles,90033,6931580,LAC + USC Medical Center (LAC + USC Regional Burn Center),538,20,1,,1,1,Yes,1,,,,Yes ,Yes,Yes,(323) 409-1000
+California,CA,Los Angeles ,2801 Atlantic Ave,Long Beach,90806,6931370,Long Beach Medical Center,412,,1,,,,Yes,,1,,,,Yes,,(562) 933-2000
+California,CA,Los Angeles ,1050 Linden Ave,Long Beach,90813,6931360,St. Mary Medical Center Long Beach,307,,1,,,,Yes,,1,,,,Yes,,(562) 491-9000
+California,CA,Madera,9300 Valley Children's Place,Madera,93636,6930814,Valley Children's Healthcare,208,,,1,,,Yes,,,,1,,Yes,,(559) 353-3000
+California,CA,Monterey ,1441 Constitution Blvd,Salinas ,93906,6932720,Natividad Medical Center,161,,1,,,,Yes,,1,,,,Yes,,(831) 647-7611
+California,CA,Orange,27700 Medical Center Rd,Mission Viejo,92691,6931915,Providence Mission Hospital,275,,1,1,,,Yes,,1,,1,,Yes,,(949) 364-1400
+California,CA,Orange,101 The City Dr South,Orange,92868,6932290,UC Irvine Health (UCI Regional Burn Center),418,8,1,1,1,1,Yes,1,,,1,Yes,Yes,Yes,(714) 456-6011
+California,CA,Orange ,1201 West La Veta Ave,Orange,92868,6932287,Children's Hospital of Orange County,334,,,1,,,Yes,,,,1,,Yes,,(714) 997-3000
+California,CA,Orange ,1001 North Tustin Ave,Santa Ana,92705,6933377,Orange County Global Medical Center (Orange County Burn Center),282,7,1,,1,1,Yes,,1,,,No,Yes,Yes,(714) 953-3500
+California,CA,Placer,1 Medical Plaza Dr,Roseville,95661,6932645,Sutter Roseville Medical Center,328,,1,,,,Yes,,1,,,,Yes,,(916) 781-1000
+California,CA,Riverside,1150 N Indian Canyon Dr,Palm Springs,92262,6932325,Desert Regional Medical Center,367,,1,,,,Yes,,1,,,,Yes,,(760) 323-6511
+California,CA,Riverside ,4445 Magnolia Ave,Riverside ,92501,6932585,HCA Riverside Community Hospital,373,,1,,,,Yes,,1,,,,Yes,,(951) 788-3000
+California,CA,Riverside ,36485 Inland Valley Rd,Wildomar,92595,6930640,Inland Valley Medical Center,122,,1,,,,Yes,,1,,,,Yes,,(951) 677-1111
+California,CA,Riverside ,26520 Cactus Avenue,Moreno Valley,92555,6930110,Riverside University Health System Medical Center,439,,1,,,,Yes,1,,,,,Yes,,(951) 486-4000
+California,CA,Sacramento ,6501 Coyle Ave,Carmichael,95608,6930037,Mercy San Juan Medical Center,370,,1,,,,Yes,,1,,,,Yes,,(916) 537-5000
+California,CA,Sacramento ,6600 Bruceville Rd,Sacramento,95823,6932673,Kaiser Permanente South Sacramento Medical Center,241,,1,,,,Yes,,1,,,,Yes,,(916) 688-2430
+California,CA,Sacramento ,2315 Stockton Blvd,Sacramento,95817,6932680,UC Davis Medical Center (UC Davis Regional Burn Center),634,12,1,1,1,,Yes,1,,1,,Yes,Yes,Yes,(916) 734-2011
+California,CA,Sacramento ,2425 Stockton Blvd,Sacramento,95817,6933080,Shriners Burn Center at Shriners Hospitals for Children - Nothern California,80,10,,,,1,,,,,,Yes,,Yes,(916) 453-2000
+California,CA,San Bernardino,400 N  Pepper Ave,Colton,92324,6932770,Arrowhead Regional Medical Center (Edward G. Hirschman Burn Center),456,14,1,,1,1,Yes,,1,,,No,Yes,Yes,(909) 580-1000
+California,CA,San Bernardino,11234 Anderson St,Loma Linda,92354,6930053,Loma Linda University Medical Center/Loma Linda University Children's Hospital,533,,1,1,,,Yes,1,,1,,,Yes,,(909) 558-4000
+California,CA,San Diego,2185 West Citracado Pkwy,Escondido,92029,6930660,Palomar Medical Center Escondido,288,,1,,,,Yes,,1,,,,Yes,,(760) 739-3000
+California,CA,San Diego,3020 Children's Way,San Diego,92123,6932775,Rady Children's Hospital - San Diego,326,,,1,,,Yes,,,1,,,Yes,,(858) 576-1700
+California,CA,San Diego,9888 Genessee Ave,La Jolla,92037,6931130,Scripps Memorial Hospital,426,,1,,,,Yes,,1,,,,Yes,,(858) 626-4123
+California,CA,San Diego,4077 5th Ave,San Diego,92103,6932810,Scripps Mercy Hospital,392,,1,,,,Yes,1,,,,,Yes,,(619) 294-8111
+California,CA,San Diego,7901 Frost St,San Diego,92123,6932785,Sharp Memorial Hospital,459,,1,,,,Yes,,1,,,,Yes,,(858) 939-3400
+California,CA,San Diego,200 W Arbor Dr,San Diego,92103,6932820,UC San Diego Medical Center (UCSD Regional Burn Center),723,8,1,,1,1,Yes,1,,,,Yes,Yes,Yes,(619) 543-6222
+California,CA,San Francisco ,1001 Potrero Ave,San Francisco,94110,6933060,Zuckerberg San Francisco General Hospital ,297,,1,,,,Yes,1,,,,,Yes,,(628) 206-8000
+California,CA,San Francisco ,900 Hyde St ,San Francisco,94109,6933020,Bothin Burn Center at St. Francis Memorial Hospital,239,16,,,1,1,,,,,,Yes,,Yes,(415) 353-6000
+California,CA,San Joaquin,500 West Hospital Rd,French Camp,95231,6930780,San Joaquin General Hospital,110,,1,,,,Yes,,1,,,,Yes,,(209) 468-6000
+California,CA,Santa Clara,300 Pasteur Dr,Palo Alto,94305,6932330,Stanford Health Care/Lucile Packard Children's Hospital Stanford,602,,1,1,,,Yes,1,,1,,,Yes,,(650) 723-4000
+California,CA,Santa Barbara,400 W Pueblo St,Santa Barbara,93105,6933375,Santa Barbara Cottage Hospital,430,,1,,,,Yes,1,,,,,Yes,,(805) 682-7111
+California,CA,Santa Clara,751 South Bascom Ave,San Jose,95128,6933240,Santa Clara Valley Medical Center (Santa Clara Valley Medical Center Regional Burn Center),481,8,1,1,1,1,Yes,1,,,1,Yes,Yes,Yes,(408) 885-5000
+California,CA,Santa Clara ,225 N Jackson Ave,San Jose,95116,6933199,HCA Regional Medical Center,247,,1,,,,Yes,,1,,,,Yes,,(408) 259-5000
+California,CA,Shasta,2175 Rosaline Ave,Redding,96001,6932520,Mercy Medical Center Redding,260,,1,,,,Yes,,1,,,,Yes,,(530) 225-6000
+California,CA,Solano,1 Quality Dr,Vacaville,95688,6930422,Kaiser Permanente Vacaville Medical Center,144,,1,,,,Yes,,1,,,,Yes,,(707) 624-4000
+California,CA,Solano,1200 B. Gale Wilson Blvd,Fairfield,94533,6930403,NorthBay Medical Center,190,,1,,,,Yes,,1,,,,Yes,,(707) 646-5000
+California,CA,Sonoma,1165 Montgomery Dr,Santa Rosa,95405,6930109,Santa Rosa Memorial Hospital,283,,1,,,,Yes,,1,,,,Yes,,(707) 522-4304
+California,CA,Stanislaus,1441 Florida Ave,Modesto,95350,6930016,Doctors Medical Center,461,,1,,,,Yes,,1,,,,Yes,,(209) 578-1211
+California,CA,Stanislaus,1700 Coffee Rd,Modesto,95355,6931929,Memorial Medical Center,220,,1,,,,Yes,,1,,,,Yes,,(209) 526-4500
+California,CA,Ventura,300 Hillmont Ave,Ventura,93003,6933820,Ventura County Medical Center ,214,,1,,,,Yes,,1,,,,Yes,,(805) 652-6000
+California,CA,Ventura ,215 West Janss Rd,Thousand Oaks,91360,6933672,Los Robles Hospital and Medical Center,382,,1,,,,Yes,,1,,,,Yes,,(805)370-4421
+Colorado,CO,Adams,13123 East 16th Ave,Aurora,80045,6840280,Children's Hospital Colorado (Children's Hospital Colorado Burn Center),434,3,,1,,1,Yes,,,1,,No,Yes,No,(720) 777-1234
+Colorado,CO,Adams,12605 E 16th Ave,Aurora,80045,6840430,University of Colorado Hospital (Burn & Frostbite Center at UCHealth),825,19,1,,1,,Yes,1,,,,Yes,Yes,No,(720) 848-0000
+Colorado,CO,Adams,9191 Grant St,Thornton,80229,6840458,North Suburban Medical Center,147,,1,,,,No,,1,,,,Yes,,(303) 451-7800
+Colorado,CO,Arapahoe,501 E Hampden Ave,Englewood,80113,6840530,Swedish Medical Center (Burn and Reconstructive Centers of Colorado),389,20,1,,1,1,Yes,1,,,,No,Yes,No,(303) 788-5000
+Colorado,CO,Arapahoe,1501 South Potomac St,Aurora,80012,6840014,Medical Center of Aurora ,346,,1,,,,Yes,,1,,,,Yes,,(303) 695-2600
+Colorado,CO,Arapahoe,7700 S Broadway St,Littleton,80122,6840805,Littleton Adventist Hospital ,231,,1,,,,Yes,,1,,,,Yes,,(303) 730-8900
+Colorado,CO,Boulder,200 Exempla Circle,Lafayette ,80026,6840021,Good Samaritan Medical Center,234,,1,,,,Yes,,1,,,,Yes,,(303) 689-4000
+Colorado,CO,Boulder,4747 Arapahoe Ave,Boulder,80304,6840237,Boulder Community Foothills Hospital,157,,1,,,,No,,1,,,,Yes,,(720) 854-7000
+Colorado,CO,Denver,777 Bannock St,Denver,80204,6840290,Denver Health Medical Center,525,,1,1,,,Yes,1,,,1,,Yes,,(303) 436-6000
+Colorado,CO,Douglas,10101 Ridge Gale Pkwy,Lone Tree,80124,6840023,Sky Ridge Medical Center ,284,,1,,,,Yes,,1,,,,Yes,,(720) 225-1000
+Colorado,CO,Douglas,9395 Crown Crest Blvd,Parker,80138,6840022,Parker Adventist Hospital,163,,1,,,,Yes,,1,,,,Yes,,(303) 269-4000
+Colorado,CO,El Paso,2222 N Nevada Ave,Colorado Springs,80907,6840145,Penrose Hospital,552,,1,,,,Yes,1,,,,,Yes,,(719) 776-5000
+Colorado,CO,El Paso,1400 E Boulder St,Colorado Springs,80909,6840190,UCHealth Memorial Hospital,512,,1,,,,Yes,1,,,,,Yes,,(719) 365-5000
+Colorado,CO,El Paso,4090 Briargate Pkwy,Colorado Springs,80920,6840104,Children's Hospital of Colorado at Memorial,115,,,1,,,Yes,,,,1,,Yes,,(719) 305-1234
+Colorado,CO,Jefferson,11600 W 2nd Pl,Lakewood,80228,6840385,St. Anthony Hospital,237,,1,,,,Yes,1,,,,,Yes,,(720) 321-0000
+Colorado,CO,Jefferson,8300 W 38th Ave,Wheat Ridge,80033,6840012,Lutheran Medical Center,336,,1,,,,Yes,,1,,,,Yes,,(303) 425-4500
+Colorado,CO,Larimer,2500 Rocky Mountain Ave,Loveland,80538,6840033,UCHealth Medical Center of the Rockies,166,,1,,,,Yes,,1,,,,Yes,,(970) 624-2500
+Colorado,CO,Mesa,2635 N 7th St,Grand Junction,81501,6840625,St. Mary's Hospital and Medical Center,310,,1,,,,Yes,,1,,,,Yes,,(970) 298-2273
+Colorado,CO,Weld,1801 16th St,Greeley,80631,6840650,North Colorado Medical Center (Western States Burn Center),369,10,1,,1,,Yes,,1,,,Yes,Yes,No,(970) 810-4121
+Connecticut,CT,Fairfield,267 Grant St,Bridgeport,06610,6160002,Bridgeport Hospital (The Connecticut Burn Center),501,9,1,,1,,Yes,,1,,,Yes,Yes,Yes,(203) 384-3000
+Connecticut,CT,Fairfield,24 Hospital Ave,Danbury,06810,6160100,Danbury Hospital,456,,1,,,,Yes,,1,,,,Yes,,(203) 739-7000
+Connecticut,CT,Fairfield,34 Maple St,Norwalk,06856,6160530,Norwalk Hospital,366,,1,,,,Yes,,1,,,,Yes,,(203) 852-2000
+Connecticut,CT,Fairfield,2800 Main St,Bridgeport,06606,6160010,St. Vincent's Medical Center ,473,,1,,,,Yes,,1,,,,Yes,,(203) 576-6000
+Connecticut,CT,Fairfield,1 Hospital Plz,Stamford,06904,6160009,Stamford Hospital,305,,1,,,,Yes,,1,,,,Yes,,(203) 276-1000
+Connecticut,CT,Hartford,282 Washington St,Hartford,06106,6160450,Connecticut Children's Medical Center,185,,,1,,,Yes,,,1,,,Yes,,(860) 545-9000
+Connecticut,CT,Hartford,80 Seymour St,Hartford,06102,6160003,Hartford Hospital,867,,1,,,,Yes,1,,,,,Yes,,(860) 545-9000
+Connecticut,CT,Hartford,114 Woodland St,Hartford,06105,6160004,Saint Francis Hospital and Medical Center,617,,1,,,,Yes,1,,,,,Yes,,(860) 714-4000
+Connecticut,CT,New Haven,56 Franklin St,Waterbury,06706,6160740,Saint Mary's Hospital,379,,1,,,,Yes,,1,,,,Yes,,(203) 709-6000
+Connecticut,CT,New Haven,64 Robbins St,Waterbury,06708,6160750,Waterbury Hospital,357,,1,,,,Yes,,1,,,,Yes,,(203) 573-6000
+Connecticut,CT,New Haven,20 York St,New Haven,06510,6160400,Yale-New Haven Hospital,1573,,1,1,,,Yes,1,,1,,,Yes,,(203) 688-4242
+Connecticut,CT,New Haven,1450 Chapel St,New Haven,06511,6160410,Yale-New Haven Hospital-Saint Raphael,573,,1,,,,No,,1,,,,Yes,,(203) 789-3000
+Delaware,DE,New Castle,4755 Ogletown-Stanton Rd,Newark,19713,6310120,ChristianaCare,1140,,1,,,,Yes,1,,,,,Yes,,(302) 733-1000
+Delaware,DE,New Castle,1600 Rockland Rd,Wilmington,19803,6310110,Nemours Children's Hospital ,137,,,1,,,Yes,,,1,,,Yes,,(302) 651-4200
+District of Columbia,DC,District of Columbia,110 Irving St,Washington,20010,6330120,MedStar Washington Hospital Center (The Burn Center at MedStar Washington Hospital Center),926,10,1,,1,,Yes,1,,,,Yes,Yes,Yes,(202) 877-7000
+District of Columbia,DC,District of Columbia,900 23rd St,Washington,20037,6330140,George Washington University Hospital,371,,1,,,,Yes,1,,,,,Yes,,(202) 715-4000
+District of Columbia,DC,District of Columbia,2041 Georgia Ave,Washington,20060,6330100,Howard University Hospital,300,,1,,,,Yes,1,,,,,Yes,,(202) 865-6100
+District of Columbia,DC,District of Columbia,111 Michigan Ave,Washington,20010,6330030,Children's National Health System (Children's National Trauma and Burn Center),323,31,,1,,1,Yes,,,1,,No,Yes,Yes,(202) 476-5000
+Florida,FL,Alachua,1600 SW Archer Rd,Gainesville,32610,6390283,UF Health Shands Hospital (UF Health Shands Burn Center),1162,27,1,,1,,Yes,1,,,,Yes,Yes,Yes,(352) 265-0111
+Florida,FL,Bay,615 N Bonita Ave,Panama City,32401,6390775,Ascension Sacred Heart Bay,202,,1,,,,No,,1,,,,Yes,,(850) 769-1511
+Florida,FL,Brevard,1350 Hickory St,Melbourne,32901,6390530,Health First Holmes Regional Medical Center,514,,1,,,,No,,1,,,,Yes,,(321) 434-7000
+Florida,FL,Broward,3501 Johnson St,Hollywood,33021,6390295,Memorial Regional Hospital/Joe DiMaggio Children's Hospital,797,,1,1,,,Yes,1,,,1,,Yes,,(954) 987-2000
+Florida,FL,Broward,1600 S Andrews Ave,Fort Lauderdale,33316,6390210,Broward Health Medical Center,716,,1,,,,No,1,,,,,Yes,,(954) 355-4400
+Florida,FL,Broward,201 E Sample Rd,Pompano Beach,33064,6390849,Broward Health North,331,,1,,,,No,,1,,,,Yes,,(954) 941-8300
+Florida,FL,Clay,2001 Kingsley Ave,Orange Park,32073,6390700,Orange Park Medical Center,365,,1,,,,No,,1,,,,Yes,,(904) 639-8500
+Florida,FL,Duval,655 W 8th St,Jacksonville,32209,6390082,Shands Jacksonville Medical Center,695,,1,,,,Yes,1,,,,,Yes,,(904) 244-0411
+Florida,FL,Duval,800 Prudential Dr,Jacksonville,32207,6390134,Wolfson Children's Hospital,216,,,1,,,No,,,1,,,Yes,,(904) 202-8000
+Florida,FL,Escambia,1000 W Moreno St,Pensacola,32501,6390792,Baptist Hospital,264,,1,,,,No,,1,,,,Yes,,(850) 434-4011
+Florida,FL,Escambia,5151 N Ninth Ave,Pensacola,32504,6390830,Ascension Sacred Heart Pensacola,566,,1,1,,,No,,1,,1,,Yes,,(850) 416-7000
+Florida,FL,Hillsborough,1 Tampa General Circle,Tampa,33606,6391060,Tampa General Hospital (Tampa General Hospital Regional Burn Center),1041,18,1,1,1,1,Yes,1,,1,,Yes,Yes,Yes,(813) 844-7000
+Florida,FL,Hillsborough,3001 Martin Luther King Jr. Blvd,Tampa,33607,6390053,St. Joseph's Hospital,774,,1,1,,,No,,1,,1,,Yes,,(813) 870-4000
+Florida,FL,Lee,2776 Cleveland Ave,Fort Myers,33901,6390240,Lee Memorial Hospital,414,,1,,,,No,,1,,,,Yes,,(239) 343-2000
+Florida,FL,Leon,1300 Miccosukee Rd,Tallahassee,32308,6391030,Tallahassee Memorial HealthCare,772,,1,,,,No,,1,,,,Yes,,(850) 431-1155
+Florida,FL,Manatee,2020 59th St West,Bradenton,34209,6390055,Blake Medical Center (Burn Center at Blake Medical Center),383,12,1,,1,,Yes,,1,,,No,Yes,Yes,(941) 792-6611
+Florida,FL,Marion,1431 SW 1st Ave,Ocala,34471,6390680,Ocala Regional Medical Center,288,,1,,,,Yes,,1,,,,Yes,,(352) 401-1000
+Florida,FL,Miami-Dade,11750 Bird Rd,Miami,33175,6390515,Kendall Regional Medical Center (Burn and Reconstructive Centers of FL),447,18,1,,1,,Yes,1,,,,Yes,Yes,Yes,(305) 223-3000
+Florida,FL,Miami-Dade,1611 NW 12th Ave,Miami,33136,6390570,Jackson Memorial Hospital (Miami Burn Center),1550,,1,,1,1,Yes,1,,,,Yes,Yes,Yes,(305) 585-1111
+Florida,FL,Miami-Dade,3100 SW 62nd Ave,Miami,33155,6390625,Nicklaus Children's Hospital,309,,,1,,,Yes,,,1,,,Yes,,(305) 666-6511
+Florida,FL,Miami-Dade,20900 Biscayne Blvd,Miami,33180,6390282,Aventura Hospital and Medical Center,407,,1,,,,No,,1,,,,Yes,,(305) 682-7000
+Florida,FL,Miami-Dade,9333 SW 152nd St,Palmetto Bay,33157,6390560,Jackson South Community Hospital,192,,1,,,,No,,1,,,,Yes,,(305) 251-2500
+Florida,FL,Okaloosa,1000 Mar-Walt Dr,Fort Walton Beach,32547,6390253,Fort Walton Beach Medical Center,267,,1,,,,Yes,,1,,,,Yes,,(850) 862-1111
+Florida,FL,Orange,52 W Underwood St,Orlando,32806,6390695,Orlando Regional Medical Center/Arnold Palmer Hospital for Children (Warden Burn Center),808,10,1,1,1,,Yes,1,,1,,Yes,Yes,Yes,(407) 841-5111
+Florida,FL,Osceola,700 W Oak St,Kissimmee,34741,6390440,Osceola Regional Medical Center,414,,1,,,,No,,1,,,,Yes,,(407) 846-2266
+Florida,FL,Palm Beach,5352 Linton Blvd,Delray Beach,33484,6390081,Delray Medical Center,523,,1,,,,No,1,,,,,Yes,,(561) 498-4440
+Florida,FL,Palm Beach,901 45th St,Mangonia Park,33407,6391140,St. Mary's Medical Center,460,,1,,,,No,1,,,,,Yes,,(561) 844-6300
+Florida,FL,Pasco,14000 Fivay Rd,Hudson,34667,6390385,Regional Medical Center Bayonet Point,290,,1,,,,No,,1,,,,Yes,,(727) 869-5400
+Florida,FL,Pinellas,701 6th St South,St Petersburg,33701,6390930,Bayfront Health St. Petersburg,480,,1,,,,No,,1,,,,Yes,,(727) 823-1234
+Florida,FL,Pinellas,501 6th Ave South,St Petersburg,33701,6390900,Johns Hopkins All Children's Hospital ,259,,,1,,,No,,,,1,,Yes,,(727) 897-4926
+Florida,FL,Polk,1324 Lakeland Hills Blvd,Lakeland,33805,6390470,Lakeland Regional Medical Center,864,,1,,,,No,,1,,,,Yes,,(863) 284-1853
+Florida,FL,Sarasota,1700 S Tamiami Trail,Sarasota,34239,6390052,Sarasota Memorial Health Care System,839,,1,,,,No,,1,,,,Yes,,(941) 917-9000
+Florida,FL,Seminole,1401 W Seminole Blvd,Sanford,32771,6390955,Central Florida Regional Hospital,221,,1,,,,Yes,,1,,,,Yes,,(407) 321-4500
+Florida,FL,St. Lucie,1700 S 23rd St,Fort Pierce,34950,6390048,Lawnwood Regional Medical Center,398,,1,,,,Yes,,1,,,,Yes,,(772) 461-4000
+Florida,FL,Volusia,303 N Clyde Morris Blvd,Daytona Beach,32114,6390056,Halifax Health Medical Center,563,,1,,,,No,,1,,,,Yes,,(386) 425-4000
+Florida,FL,Duval, 3625 University Blvd S,Jacksonville,32216,6390409,Florida Memorial Hospital (Jacksonville),433,,1,,,,No,,1,,,,Yes,,(904) 702-6111
+Georgia,GA,Clarke,1199 Prince Ave,Athens,30606,6380040,Piedmont Athens Regional Medical Center,360,,1,,,,No,,1,,,,Yes,,(706) 475-7000
+Georgia,GA,Chatham,303 Parkway Drive Northeast,Atlanta,30312,6380110,WellStar Atlanta Medical Center,762,,1,,,,No,1,,,,,Yes,,(404) 265-4000
+Georgia,GA,DeKalb,1405 Clifton Rd,Atlanta,30322,6380140,Children's Healthcare of Atlanta at Egleston,295,,,1,,,Yes,,,1,,,Yes,,(404) 785-5437
+Georgia,GA,Fulton,80 Jesse Hill Jr Dr SE,Atlanta,30303,6380130,Grady Memorial Hospital (Grady Burn Center),961,,1,,1,1,Yes,1,,,,Yes,Yes,Yes,(404) 616-1000
+Georgia,GA,Fulton,1001 Johnson Ferry Rd,Atlanta,30342,6380490,Children's Healthcare of Atlanta at Scottish Rite,273,,,1,,,No,,,,1,,Yes,,(404) 256-5252
+Georgia,GA,Richmond,1120 15th St,Augusta,30912,6380254,Augusta University Medical Center,520,,1,1,,,Yes,1,,,1,,Yes,,(706) 721-2273
+Georgia,GA,Richmond,3651 Wheeler Rd,Augusta,30909,6380265,Doctors Hospital of Augusta (Joseph M. Still Burn Center),354,99,1,,1,1,Yes,,1,,,Yes,Yes,Yes,(706) 651-3232
+Georgia,GA,Cobb,3950 Austell Rd,Austell,30106,6380285,Joseph M. Still Burn Center at WellStar Cobb Hospital ,382,30,,,1,1,,,,,,No,,No,(470) 732-7060
+Georgia,GA,Muscogee,710 Center St,Columbus,31904,6380430,Piedmont Columbus Regional Midtown,583,,1,,,,No,,1,,,,Yes,,(706) 571-1000
+Georgia,GA,Hall,743 Spring St,Gainesville,30501,6380019,Northeast Georgia Medical Center,887,,1,,,,Yes,,1,,,,Yes,,(770) 219-3553
+Georgia,GA,Gwinnett,1000 Medical Center Blvd,Lawrenceville,30046,6380325,Northside Hospital - Gwinnett,388,,1,,,,No,,1,,,,Yes,,(678) 312-1000
+Georgia,GA,Bibb,777 Hemlock St,Macon,31201,6380730,Atrium Health Navicent The Medical Center,637,,1,,,,Yes,1,,,,,Yes,,(478) 633-1000
+Georgia,GA,Cobb,677 Church St,Marietta,30060,6380775,WellStar Kennestone Hospital,633,,1,,,,Yes,,1,,,,Yes,,(770) 793-5000
+Georgia,GA,Floyd,304 Turner McCall Blvd,Rome,30165,6380950,Atrium Health Floyd,304,,1,,,,No,,1,,,,Yes,,(706) 509-5000
+Georgia,GA,Fulton,3000 Hospital Blvd,Roswell,30076,6380995,WellStar North Fulton Hospital,202,,1,,,,Yes,,1,,,,Yes,,(770) 751-2500
+Georgia,GA,Chatham,4700 Waters Ave,Savannah,31404,6381027,Memorial Health University Medical Center,612,,1,,,,No,1,,,,,Yes,,(912) 350-8000
+Hawaii,HI,Honolulu,1301 Punchbowl St,Honolulu,96813,6950380,The Queen's Medical Center,637,,1,,,,Yes,1,,,,,Yes,,(808) 691-1000
+Hawaii,HI,Honolulu,1 Jarrett White Rd,Honolulu,96859,6950410,Tripler Army Medical Center,450,,1,,,,Yes,,1,,,,Yes,,(808) 433-6661
+Hawaii,HI,Honolulu,888 South King St,Honolulu,96813,6950405,Straub Burn Center,159,7,,,1,1,,,,,,No,,No,(808) 522-3577
+Idaho,ID,Ada,1055 N Curtis Rd,Boise,83706,6820040,Saint Alphonsus Regional Medical Center,387,,1,,,,Yes,,1,,,,Yes,,(208) 367-2121
+Idaho,ID,Bannock,777 Hospital Way,Pocatello,83201,6820005,Portneuf Medical Center,187,,1,,,,Yes,,1,,,,Yes,,(208) 239-1000
+Idaho,ID,Idaho Falls,3100 Channing Way,Idaho Falls,83404,6820165,Eastern Idaho Regional Medical Center (Burn Center at EIRMC),318,15,1,,1,1,Yes,,1,,,No,Yes,No,(208) 529-6111
+Idaho,ID,Ada,190 E Bannock St,Boise,83712,6820084,St. Luke's Children's Hospital and Regional Medical Center,579,,,1,,,Yes,,,,1,,Yes,,(208) 381-2222
+Illinois,IL,Adams,1005 Broadway St,Quincy,62301,6432710,Blessing Hospital,327,,1,,,,No,,1,,,,Yes,,(217) 223-1200
+Illinois,IL,Champaign,611 W Park St,Urbana,61801,6433070,"Carle Foundation Hospital	",433,,1,,,,No,1,,,,,Yes,,(217) 383-3311
+Illinois,IL,Cook,2160 S 1st Ave,Maywood,60153,6430841,Loyola University Medical Center (Loyola Burn Center),547,21,1,,1,1,Yes,1,,,,Yes,Yes,No,(708) 216-9000
+Illinois,IL,Cook,4440 W 95th St,Oak Lawn,60453,6432413,Advocate Christ Medical Center,788,,1,,,,No,1,,,,,Yes,,(708) 684-8000
+Illinois,IL,Cook,5101 Willow Springs Rd,La Grange,60525,6432055,AMITA Health Adventist Medical Center La Grange,196,,1,,,,No,,1,,,,Yes,,(708) 245-9000
+Illinois,IL,Cook,701 West North Ave,Melrose Park,60160,6432435,Gottlieb Memorial Hospital,247,,1,,,,No,,1,,,,Yes,,(708) 681-3200
+Illinois,IL,Cook,3249 South Oak Park Ave,Berwyn,60402,6430240,"MacNeal Hospital	",374,,1,,,,No,,1,,,,Yes,,(708) 783-9100
+Illinois,IL,Cook,1775 Dempster St,Park Ridge,60068,6430405,Advocate Lutheran General Hospital,638,,1,,,,No,1,,,,,Yes,,(847) 723-2210
+Illinois,IL,Cook,800 West Biesterfield Road,Elk Grove Village,60007,6431613,AMITA Health Alexian Brothers Medical Center,376,,1,,,,No,,1,,,,Yes,,(847) 437-5500
+Illinois,IL,Cook,800 West Central Road,Arlington Heights,60005,6432485,Northwest Community Healthcare,509,,1,,,,No,,1,,,,Yes,,(847) 618-1000
+Illinois,IL,Cook,1555 Barrington Road,Hoffman Estates,60169,6431926,AMITA Health St. Alexius Medical Center Hoffman Estates,318,,1,,,,No,,1,,,,Yes,,(847) 843-2000
+Illinois,IL,Cook,2650 Ridge Avenue,Evanston,60201,6431660,NorthShore Evanston Hospital,374,,1,,,,No,1,,,,,Yes,,(847) 570-2000
+Illinois,IL,Cook,2100 Pfingsten Road,Glenview,60025,6431665,NorthShore Glenbrook Hospital,173,,1,,,,No,,1,,,,Yes,,(847) 657-5800
+Illinois,IL,Cook,355 Ridge Avenue,Evanston,60202,6431670,AMITA Health Saint Francis Hospital Evanston,197,,1,,,,No,1,,,,,Yes,,(847) 316-4000
+Illinois,IL,Cook,836 West Wellington Ave,Chicago,60657,6430024,"Advocate Illinois Masonic Medical Center	",397,,1,,,,No,1,,,,,Yes,,(773) 975-1600
+Illinois,IL,Cook,225 East Chicago Avenue,Chicago,60614,6430560,"Ann & Robert H. Lurie Children's Hospital of Chicago	",364,,,1,,,No,,,1,,,Yes,,(312) 227-4000
+Illinois,IL,Cook,1969 West Ogden Avenue,Chicago,60612,6430600,John H. Stroger Jr. Hospital of Cook County (Sumner L. Koch Burn Center),450,26,1,1,1,1,No,1,,1,,Yes,Yes,No,(312) 864-6000
+Illinois,IL,Cook,1500 South Fairfield Ave,Chicago,60608,6430930,"Mount Sinai Hospital	",228,,1,,,,No,1,,,,,Yes,,(773) 542-2000
+Illinois,IL,Cook,251 East Huron Street,Chicago,60611,6430545,Northwestern Memorial Hospital,894,,1,,,,No,1,,,,,Yes,,(312) 926-2000
+Illinois,IL,Cook,5841 South Maryland Ave,Chicago,60637,6431210,University of Chicago Medical Center (University of Chicago Burn Center),811,14,1,1,1,1,No,1,,1,,Yes,Yes,No,(773) 702-1000
+Illinois,IL,DuPage,701 Winthrop Ave,Glendale Heights,60139,6431790,AMITA Health Adventist Medical Center GlenOaks,143,,1,,,,No,,1,,,,Yes,,(630) 545-8000
+Illinois,IL,DuPage,120 North Oak St,Hinsdale,60521,6431920,AMITA Health Adventist Medical Center Hinsdale,276,,1,,,,No,,1,,,,Yes,,(630) 856-9000
+Illinois,IL,DuPage,3815 Highland Ave,Downers Grove,60515,6431475,"Advocate Good Samaritan Hospital	",293,,1,,,,No,1,,,,,Yes,,(630) 275-5900
+Illinois,IL,DuPage,25 N Winfield Rd,Winfield,60190,6430019,"Northwestern Medicine Central Dupage Hospital	",392,,1,,,,No,,1,,,,Yes,,(630) 933-1600
+Illinois,IL,DuPage,801 S Washington St,Naperville,60540,6432350,"Edward Hospital	",371,,1,,,,No,,1,,,,Yes,,(630) 527-3000
+Illinois,IL,DuPage,155 East Brush Hill Rd,Elmhurst,60126,6431620,"Elmhurst Memorial Hospital	",259,,1,,,,No,,1,,,,Yes,,(331) 221-1000
+Illinois,IL,Jackson,405 W Jackson St,Carbondale,62901,6430327,"Memorial Hospital of Carbondale	",132,,1,,,,No,,1,,,,Yes,,(618) 549-0721
+Illinois,IL,Kanakee,500 W Court St,Kankakee,60901,6432030,AMITA Health St. Mary's Hospital,182,,1,,,,No,,1,,,,Yes,,(815) 937-2400
+Illinois,IL,Kanakee,350 N Wall Street,Kankakee,60901,6432025,Riverside Medical Center,300,,1,,,,No,,1,,,,Yes,,(815) 933-1671
+Illinois,IL,Kane,1425 North Randall Rd,Elgin,60120,6431610,"Advocate Sherman Hospital	",255,,1,,,,No,,1,,,,Yes,,(847) 742-9800
+Illinois,IL,Kane,300 Randall Road,Geneva,60134,6431765,Northwestern Medicine Delnor Hospital,159,,1,,,,No,,1,,,,Yes,,(630) 208-3000
+Illinois,IL,Kane,1325 North Highland Ave,Aurora,60506,6430115,"AMITA Health Mercy Medical Center	",292,,1,,,,No,,1,,,,Yes,,(630) 859-2222
+Illinois,IL,Kane,77 North Airlite Street,Elgin,60120,6431600,"AMITA Health Saint Joseph Hospital	",184,,1,,,,No,,1,,,,Yes,,(847) 695-3200
+Illinois,IL,Kane,2000 Ogden Avenue,Aurora,60504,6430100,"Rush Copley Medical Center	",210,,1,,,,No,,1,,,,Yes,,(630) 978-6200
+Illinois,IL,Lake,450 West Highway 22,Barrington,60010,6430160,"Advocate Good Shepherd Hospital	",210,,1,,,,No,,1,,,,Yes,,(847) 381-0123
+Illinois,IL,Lake,801 South Milwaukee Ave,Libertyville,60048,6432080,"Advocate Condell Medical Center	",283,,1,,,,No,1,,,,,Yes,,(847) 362-2900
+Illinois,IL,Lake,777 Park Avenue West,Highland Park,60035,6431890,NorthShore Highland Park Hospital,139,,1,,,,No,,1,,,,Yes,,(847) 432-8000
+Illinois,IL,Lake,1000 N Westmoreland Rd,Lake Forest,60045,6432060,"Northwestern Medicine Lake Forest Hospital	",114,,1,,,,No,,1,,,,Yes,,(847) 234-5600
+Illinois,IL,Lake,1324 North Sheridan Road,Waukegan,60085,6433170,"Vista Medical Center East	",190,,1,,,,No,,1,,,,Yes,,(847) 360-3000
+Illinois,IL,Macon,2300 N Edward St,Decatur,62526,6431370,"Decatur Memorial Hospital	",300,,1,,,,No,,1,,,,Yes,,(217) 876-8121
+Illinois,IL,Marris,150 West High St,Morris,60450,6432300,Morris Hospital & Healthcare Centers,89,,1,,,,No,,1,,,,Yes,,(815) 942-2932
+Illinois,IL,McHenry,10400 Haligus Road,Huntley,60142,6430477,Northwestern Medicine Huntley,128,,1,,,,No,,1,,,,Yes,,(815) 344-5000
+Illinois,IL,McHenry,4201 Medical Center Drive,McHenry,60050,6432127,Northwestern Medicine McHenry Hospital,179,,1,,,,No,,1,,,,Yes,,(815) 344-5000
+Illinois,IL,McLean,1304 Franklin Ave,Normal,61761,6430245,Carle BroMenn Medical Center,221,,1,,,,No,,1,,,,Yes,,(309) 454-1400
+Illinois,IL,McLean,2200 E Washington St,Bloomington,61701,6430260,"OSF St. Joseph Medical Center	",149,,1,,,,No,,1,,,,Yes,,(309) 308-6363
+Illinois,IL,Peoria,530 NE Glen Oak Ave,Peoria,61637,6432620,"OSF St. Francis Medical Center/OSF Children's Hospital of Illinois	",649,,1,1,,,No,1,,1,,,Yes,,(309) 655-2000
+Illinois,IL,Peoria,221 NE Glen Oak Ave,Peoria,61636,6432570,UnityPoint Health - Methodist Hospital,353,,1,,,,No,,1,,,,Yes,,(309) 672-5522
+Illinois,IL,Rock Island,801 Illini Dr,Silvis,61282,6431511,"Genesis Medical Center, Silvis",150,,1,,,,No,,1,,,,Yes,,(309) 281-4000
+Illinois,IL,Rock Island,2701 17th St,Rock Island,61201,6430016,UnityPoint Health - Trinity Rock Island,327,,1,,,,No,,1,,,,Yes,,(309) 779-5000
+Illinois,IL,Sangamon,701 North 1st St,Springfield,62781,6432950,Memorial Medical Center (Regional Burn Center),493,8,1,,1,,No,1,,,,No,Yes,No,(217) 788-3000
+Illinois,IL,Sangamon,800 E Carpenter St,Springfield,62769,6432980,"St. John's Hospital/St. John's Children's Hospital	",457,,1,1,,,No,1,,,1,,Yes,,(217) 544-6464
+Illinois,IL,Will,333 North Madison St,Joliet,60435,6431990,"Presence St. Joseph Medical Center	",485,,1,,,,No,,1,,,,Yes,,(815) 725-7133
+Illinois,IL,Will,1900 Silver Cross Blvd,New Lenox,60451,6432000,"Silver Cross Hospital	",316,,1,,,,No,,1,,,,Yes,,(815) 300-1100
+Illinois,IL,Will,500 Remington Blvd,Bolingbrook,60440,6430034,"AMITA Health Adventist Medical Center Bolingbrook	",138,,1,,,,No,,1,,,,Yes,,(630) 312-5000
+Illinois,IL,Winnebago,5666 E State St,Rockford,61108,6432800,OSF Saint Anthony Medical Center (w/ Burn Unit),254,8,1,,1,1,Yes,,1,,,No,Yes,No,(815) 226-2000
+Illinois,IL,Winnebago,8201 E Riverside Blvd,Rockford,61114,6430484,Mercyhealth Javon Bea Hospital - Riverside Campus,188,,1,,,,No,1,,,,,Yes,,(815) 971-7000
+Illinois,IL,Winnebago,1401 E State St,Rockford,61104,6432810,SwedishAmerican - A Division of UW Health,357,,1,,,,No,,1,,,,Yes,,(779) 696-4400
+Indiana,IN,Allen,7950 West Jefferson Blvd,Fort Wayne,46804,6420420,Lutheran Hospital (Lutheran Hospital Burn Center),396,8,1,1,1,1,Yes,,1,,1,No,Yes,,(260) 435-7001
+Indiana,IN,Allen,11109 Parkview Plaza Dr,Fort Wayne,46845,6429153,Parkview Regional Medical Center,781,,1,1,,,Yes,,1,,1,,Yes,,(260) 266-1000
+Indiana,IN,Marion,2001 West 86th St,Indianapolis,46260,6420715,Ascension St. Vincent Indianapolis Hospital/Peyton Manning Children's Hospital (Burn Center),836,8,1,1,1,1,Yes,1,,1,,No,Yes,,(317) 338-2345
+Indiana,IN,Marion,720 Eskenazi Ave,Indianapolis,46202,6420620,Eskenazi Health (Richard M. Fairbanks Burn Center),315,15,1,,1,,Yes,1,,,,Yes,Yes,,(317) 880-0000
+Indiana,IN,Marion,1701 N Senate,Indianapolis,46206,6420660,Indiana University Health Methodist Hospital,802,,1,,,,Yes,1,,,,,Yes,,(317) 962-2000
+Indiana,IN,Marion,705 Riley Hospital Dr,Indianapolis,46202,6420632,Riley Hospital for Children at Indiana University Health (Burn Program at Riley IU Health),354,10,,1,,1,Yes,,,1,,Yes,Yes,,(317) 274-5000
+Indiana,IN,St. Joseph,615 N Michigan St,South Bend,46601,6421290,Memorial Hospital of South Bend,449,,1,,,,Yes,,1,,,,Yes,,(574) 647-1000
+Indiana,IN,Vanderburgh,3700 Washington Ave,Evansville,47714,6420027,Ascension St. Vincent Evansville,376,,1,1,,,Yes,,1,,1,,Yes,,(812) 485-4000
+Indiana,IN,Vanderburgh,600 Mary St,Evansville,47747,6420320,Deaconess Midtown Hospital,350,,1,,,,Yes,,1,,,,Yes,,(812) 450-5000
+Iowa,IA,Johnson,200 Hawkins Dr,Iowa City,52242,6620765,University of Iowa Hospitals and Clinics/Stead Family Children's Hospital (UI Burn Center),811,17,1,1,1,1,Yes,1,,1,,Yes,Yes,No,(319) 356-1616
+Iowa,IA,Polk,1200 Pleasant St,Des Moines,50309,6620420,UnityPoint Health - Iowa Methodist Medical Center/Blank Children's Hospital,372,,1,1,,,Yes,1,,,1,,Yes,,(515) 241-6212
+Iowa,IA,Polk,1111 6th Ave,Des Moines,50314,6620003,MercyOne Des Moines Medical Center,875,,1,1,,,Yes,,1,,1,,Yes,,(515) 247-3121
+Iowa,IA,Woodbury,801 5th St,Sioux City,51101,6621275,MercyOne Siouxland Medical Center,238,,1,,,,Yes,,1,,,,Yes,,(712) 279-2010
+Kansas,KS,Johnson,10500 Quivira Rd,Overland Park,66215,6670775,Overland Park Regional Medical Center,343,,1,,,,Yes,,1,,,,Yes,,(913) 541-5000
+Kansas,KS,Sedgwick,929 N St. Francis St,Wichita,67214,6671100,Ascension Via Christi St. Francis (Ascension Via Christi Regional Burn Center),613,12,1,,1,1,Yes,1,,,,Yes,Yes,,(316) 268-5000
+Kansas,KS,Sedgwick,550 N Hillside,Wichita,67214,6671170,Wesley Healthcare Center/Wesley Children's Hospital,760,,1,1,,,Yes,1,,,1,,Yes,,(316) 962-2000
+Kansas,KS,Shawnee,1500 SW 10th Ave,Topeka,66604,6671025,Stormont Vail Health,586,,1,,,,Yes,,1,,,,Yes,,(785) 354-6000
+Kansas,KS,Wyandotte,4000 Cambridge St,Kansas City,66160,6670510,The University of Kansas Hospital (Burnett Burn Center),910,16,1,,1,1,Yes,1,,,,Yes,Yes,,(913) 588-1227
+Kentucky,KY,Fayette ,800 Rose St,Lexington,40536,6510455,University of Kentucky Albert B. Chandler Hospital ,945,,1,1,,,Yes,1,,1,,,Yes,,(859) 323-5000
+Kentucky,KY,Jefferson,231 East Chestnut St,Louisville,40202,6510540,Norton Children's Hospital,300,,,1,,,Yes,,,1,,,Yes,,(502) 629-6000
+Kentucky,KY,Jefferson,530 South Jackson St,Louisville,40202,6510550,UL Hospital (University of Louisville Burn Center),404,16,1,,1,,Yes,1,,,,No,Yes,,(502) 562-3000
+Kentucky,KY,Pike,911 Bypass Rd,Pikeville,41501,6510860,Pikeville Medical Center,348,,1,,,,Yes,,1,,,,Yes,,(606) 430-3500
+Louisiana,LA,Caddo,1541 Kings Hwy,Shreveport,71103,6720776,Ochsner LSU Health Shreveport (LSU Health Burn Center),452,13,1,,1,,Yes,1,,,,No,Yes,,(318) 626-0000
+Louisiana,LA,East Baton Rouge,5000 Hennessy Blvd,Baton Rouge,70808,6720028,Our Lady of the Lake Regional Medical Center,988,,1,,,,Yes,,1,,,,Yes,,(225) 765-6565
+Louisiana,LA,East Baton Rouge,8585 Picardy Ave,Baton Rouge,70809,6720042,Baton Rouge General Regional Burn Center,527,8,,,1,,,,,,,Yes,,,(225) 763-4000
+Louisiana,LA,Lafayette Parish,1214 Coolidge Blvd,Lafayette,70503,6720340,Ochsner Lafayette General Medical Center,461,,1,,,,Yes,,1,,,,Yes,,(337) 289-7991
+Louisiana,LA,Lafayette Parish,4801 Ambassador Caffery Pkwy,Lafayette,70508,6720343,Grossman Burn Center at Our Lady of Lourdes Regional Medical Center,6,6,,,1,1,,,,,,No,,,(337) 470-2603
+Louisiana,LA,Orleans Parish,2000 Canal St,New Orleans,70112,,University Medical Center New Orleans (UMC Burn Center),446,20,1,,1,,Yes,1,,,,Yes,Yes,,(504) 702-3000
+Louisiana,LA,Rapides,211 Fourth St,Alexandria,71301,6720020,Rapides Regional Medical Center - Alexandria,362,,1,,,,Yes,,1,,,,Yes,,(318) 769-3000
+Louisiana,LA,St. Tammany Parish,95 Judge Tanner Blvd,Covington,70433,6720180,Lakeview Regional Medical Center,167,,1,,,,Yes,,1,,,,Yes,,(985) 867-3800
+Louisiana,LA,"	Tangipahoa Parish",15790 Paul Vega MD Dr,Hammond,70403,6720254,North Oaks Medical Center,330,,1,,,,Yes,,1,,,,Yes,,(985) 345-2700
+Maine,ME,Cumberland,22 Bramhall St,Portland,04102,6110430,Maine Medical Center (Maine Medical Center Burn Unit),637,6,1,,1,,Yes,1,,,,No,Yes,No,(207) 662-0111
+Maine,ME,Penobscot,489 State St,Bangor,04401,6110050,Northern Light Eastern Maine Medical Center,411,,1,,,,Yes,,1,,,,Yes,,(207) 973-7000
+Maryland,MD,Baltimore City,600 N Wolfe St,Baltimore,21287,6320180,Johns Hopkins Hospital (Johns Hopkins Pediatric Burn Center),1091,,1,1,,1,No,1,,1,,Yes,Yes,Yes,(410) 955-5000
+Maryland,MD,Baltimore City,4940 Eastern Ave,Baltimore,21224,6320050,Johns Hopkins Bayview Medical Center (Johns Hopkins Adult Burn Center),420,20,1,,1,,No,,1,,,Yes,Yes,Yes,(410) 550-0100
+Maryland,MD,Baltimore City,2401 W Belvedere Ave,Baltimore,21215,6320280,Sinai Hospital of Baltimore,483,,1,,,,No,,1,,,,Yes,,(410) 601-9000
+Maryland,MD,Montgomery,8901 Rockville Pike,Bethesda,20889,6320360,Walter Reed National Military Medical Center,244,,1,,,,Yes ,,1,,,,No,,(301) 295-4000
+Maryland,MD,Montgomery,8600 Old Georgetown Rd,Bethesda,20814,6320350,Suburban Hospital,230,,1,,,,No,,1,,,,Yes,,(301) 896-3100
+Maryland,MD,Prince George's ,3001 Hospital Drive,Cheverly,20785,6320610,University of Maryland Capital Region Medical Center,205,,1,,,,No,,1,,,,Yes,,(240) 677-1000
+Massachusetts,MA,Bristol,101 Page St,New Bedford,02740,6141435,St. Luke's Hospital,360,,1,,,,Yes,,1,,,,Yes,,(508) 997-1515
+Massachusetts,MA,Hampden,759 Chestnut St,Springfield,01199,6141955,Baystate Medical Center,716,,1,1,,,Yes,1,,,1,,Yes,,(413) 794-0000
+Massachusetts,MA,Middlesex,41 Mall Rd,Burlington,01805,6140690,"Lahey Hospital & Medical Center, Burlington",396,,1,,,,Yes,1,,,,,Yes,,(781) 744-5100
+Massachusetts,MA,Norfolk,55 Fogg Rd,South Weymouth,02190,6141900,South Shore Hospital,408,,1,,,,Yes,,1,,,,Yes,,(781) 624-8000
+Massachusetts,MA,Suffolk,330 Brookline Ave,Boston,02215,6140013,Beth Israel Deaconess Medical Center,673,,1,,,,Yes,1,,,,,Yes,,(617) 667-7000
+Massachusetts,MA,Suffolk,300 Longwood Ave,Boston,02115,6140270,Boston Children's Hospital,415,,,1,,,Yes,,,1,,,Yes,,(617) 355-6000
+Massachusetts,MA,Suffolk,1 Boston Medical Center Pl,Boston,02118,6140010,Boston Medical Center,514,,1,1,,,Yes,1,,,1,,Yes,,(617) 638-8000
+Massachusetts,MA,Suffolk,75 Francis St,Boston,02115,6140215,Brigham and Women's Hospital (Burn Center),793,15,1,,1,,Yes,1,,,,Yes,Yes,,(617) 732-5500
+Massachusetts,MA,Suffolk,55 Fruit St,Boston,02114,6140430,Massachusetts General Hospital (Sumner M. Redstone Burn Center),999,22,1,1,1,,Yes,1,,1,,Yes,Yes,,(617) 726-2000
+Massachusetts,MA,Suffolk,800 Washington St,Boston,02111,6140465,Tufts Medical Center,415,,1,1,,,Yes,1,,1,,,Yes,,(617) 636-5000
+Massachusetts,MA,Suffolk,51 Blossom St,Boston,02114,6140581,Shriners Burn Center at Shriners Hospitals for Children-Boston,30,15,,,,1,,,,,,Yes,,,(617) 722-3000
+Michigan,MI,Emmet,416 Connable Ave,Petoskey,49770,6442035,McLaren Northern Michigan,202,,1,,,,Yes,,1,,,,Yes,,(231) 627-1368
+Michigan,MI,Genesee,1 Genesys Pkwy,Grand Blanc,48439,6440018,Ascension Genesys Hospital,410,,1,,,,Yes,,1,,,,Yes,,(810) 606-5000
+Michigan,MI,Genesee,1 Hurley Plz,Flint,48503,6441030,Hurley Medical Center/Hurley Children's Hospital (Hurley Medical Center Regional Burn Center),443,15,1,1,1,,Yes,1,,,1,No,Yes,Yes,(810) 262-9000
+Michigan,MI,Grand Traverse,1105 Sixth St,Traverse City,49684,6440013,Munson Medical Center,442,,1,,,,Yes,,1,,,,Yes,,(231) 935-5000
+Michigan,MI,Ingham,1215 E Michigan Ave,Lansing,48909,6441595,Sparrow Hospital,733,,1,,,,Yes,1,,,,,Yes,,(517) 364-1000
+Michigan,MI,Jackson,205 N East Ave,Jackson,49201,6441500,Henry Ford Allegiance Health,475,,1,,,,Yes,,1,,,,Yes,,(517) 205-4800
+Michigan,MI,Kalamazoo,1521 Gull Rd,Kalamazoo,49048,6440017,Ascension Borgess Hospital,356,,1,,,,Yes,,1,,,,Yes,,(269) 226-7000
+Michigan,MI,Kalamazoo,601 John St,Kalamazoo,49007,6441550,Bronson Methodist Hospital (Bronson Methodist Hospital Burn Center),435,8,1,,1,,Yes,1,,,,No,Yes,Yes,(269) 341-7654
+Michigan,MI,Kent,200 Jefferson Ave,Grand Rapids,49503,6441210,Mercy Health Saint Mary's,303,,1,,,,Yes,,1,,,,Yes,,(616) 685-5000
+Michigan,MI,Kent,100 Michigan Street NE,Grand Rapids,49503,6440021,Spectrum Health - Butterworth Hospital/Helen DeVos Children's Hospital (Spectrum Health Regional Burn Center),1398,8,1,1,1,1,Yes,1,,1,,No,Yes,Yes,(866) 989-7999
+Michigan,MI,Kent,5900 Byron Center Rd,Wyoming,49519,6441231,Metro Health - University of Michigan Health,208,,1,,,,Yes,,1,,,,Yes,,(616) 252-7200
+Michigan,MI,Lapeer,1375 N Main St,Lapeer,48446,6441640,McLaren Lapeer Region,222,,1,,,,Yes,,1,,,,Yes,,(810) 667-5500
+Michigan,MI,Macomb,15855 Nineteen Mile Rd,Clinton Township,48038,6441830,Henry Ford Macomb Hospital,361,,1,,,,Yes,,1,,,,Yes,,(586) 263-2300
+Michigan,MI,Macomb,1000 Harrington St,Mount Clemens,48043,6441847,McLaren Macomb Hospital,288,,1,,,,Yes,,1,,,,Yes,,(586) 493-8000
+Michigan,MI,Marquette,580 W College Avenue ,Marquette,49855,6441720,UP Health System-Marquette,307,,1,,,,Yes,,1,,,,Yes,,(906) 449-3000
+Michigan,MI,Midland,4000 Wellness Dr,Midland,48670,6441785,MidMichigan Medical Center-Midland,324,,1,,,,Yes,,1,,,,Yes,,(989) 839-3000
+Michigan,MI,Muskegon,1700 Clinton St,Muskegon,49444,6440024,Mercy Health Muskegon,329,,1,,,,Yes,,1,,,,Yes,,(231) 726-3511
+Michigan,MI,Oakland,16001 W Nine Mile Rd,Southfield,48075,6440780,"Ascension Providence Hospital, Southfield Campus",563,,1,,,,Yes,,1,,,,Yes,,(248) 849-3000
+Michigan,MI,Oakland,47601 Grand River Ave,Novi,48374,6440048,"Providence Park Hospital, Novi Campus",238,,1,,,,Yes,,1,,,,Yes,,248) 465-4100
+Michigan,MI,Oakland,44201 Dequindre Rd,Troy,48085,6442463,Beaumont Hospital - Troy,530,,1,,,,Yes,,1,,,,Yes,,(248) 964-5000
+Michigan,MI,Oakland,3601 W 13 Mile Rd,Royal Oak,48073,6442245,Beaumont Hospital - Royal Oak,1098,,1,1,,,Yes,1,,,1,,Yes,,(248) 898-5000
+Michigan,MI,Oakland,28050 Grand River Ave,Farmington Hills,48336,6441011,Beaumont Hospital - Farmington Hills,330,,1,,,,Yes,,1,,,,Yes,,(947) 521-8000
+Michigan,MI,Oakland,50 N Perry St,Pontiac,48342,6442148,McLaren Oakland,318,,1,,,,Yes,,1,,,,Yes,,(248) 338-5000
+Michigan,MI,Oakland,44405 Woodward Ave,Pontiac,48341,6442140,St. Joseph Mercy Oakland,497,,1,,,,Yes,,1,,,,Yes,,(248) 858-3000
+Michigan,MI,Saginaw,800 S Washington Ave,Saginaw ,48601,6442290,Ascension St. Mary's of Michigan,239,,1,,,,Yes,,1,,,,Yes,,(989) 907-8000
+Michigan,MI,Saginaw,1447 N Harrison,Saginaw ,48602,6440023,Covenant HealthCare,643,,1,1,,,Yes,,1,,1,,Yes,,(989) 583-7000
+Michigan,MI,Washtenaw,5301 Mcauley Dr,Ypsilanti,48197,6440087,St. Joseph Mercy Ann Arbor,548,,1,,,,Yes,1,,,,,Yes,,(734) 712-3456
+Michigan,MI,Washtenaw,1500 E Medical Center Dr,Ann Arbor,48109,6440110,University of Michigan Health System/C.S. Mott Children's Hospital (UM Trauma Burn Center),1107,16,1,1,1,1,Yes,1,,1,,Yes,Yes,Yes,(734) 936-4000
+Michigan,MI,Wayne,22101 Moross Rd,Detroit,48236,6440805,Ascension St. John Hospital,615,,1,1,,,Yes,1,,,1,,Yes,,(313) 343-4000
+Michigan,MI,Wayne,5450 Fort St,Trenton,48183,6442455,Beaumont Hospital - Trenton,193,,1,,,,Yes,,1,,,,Yes,,(734) 671-3800
+Michigan,MI,Wayne,18101 Oakwood Blvd,Dearborn,48124,6440405,Beaumont Hospital - Dearborn,632,,1,,,,Yes,,1,,,,Yes,,(313) 593-7000
+Michigan,MI,Wayne,3901 Beaubien Blvd,Detroit,48201,6440480,DMC - Children's Hospital of Michigan (Children's Hospital of Michigan Burn Center),227,10,,1,,1,Yes,,,1,,Yes,Yes,Yes,(313) 745-5437
+Michigan,MI,Wayne,6071 West Outer Dr,Detroit,48235,6440630,DMC - Sinai-Grace Hospital,404,,1,,,,Yes,,1,,,,Yes,,(313) 966-3300
+Michigan,MI,Wayne,4201 Saint Antoine St,Detroit,48201,6440555,Detroit Receiving Hospital (Detroit Receiving Hospital Burn Center),273,12,1,,1,,Yes,1,,,,Yes,Yes,Yes,(313) 745-3000
+Michigan,MI,Wayne,2799 West Grand Blvd,Detroit,48202,6440650,Henry Ford Hospital,877,,1,,,,Yes,1,,,,,Yes,,(313) 916-2600
+Michigan,MI,Wayne,36475 Five Mile Rd,Livonia,48154,6441669,St. Mary Mercy Livonia Hospital,304,,1,,,,Yes,,1,,,,Yes,,(734) 655-4800
+Minnesota ,MN,Anoka,4050 Coon Rapids Blvd,Coon Rapids,55433,6610085,Mercy Hospital,271,,1,,,,Yes,,1,,,,Yes,,(763) 236-6000
+Minnesota ,MN,St. Louis,407 E 3rd St,Duluth,55805,6610410,Essentia Health St. Mary's Medical Center,380,,1,1,,,Yes,1,,,1,,Yes,,(218) 786-4000
+Minnesota ,MN,St. Louis,915 E 1st St,Duluth,55805,6610400,St. Luke's Hospital,257,,1,,,,Yes,,1,,,,Yes,,(218) 249-5555
+Minnesota ,MN,St. Louis,502 E 2nd St,Duluth,55805,6610390,Miller-Dwan Burn Center at Essentia Health Duluth,165,15,,,1,1,,,,,,No,,No,(218) 727-8762
+Minnesota ,MN,Hennepin,2525 Chicago Ave South,Minneapolis,55404,6610449,Children's Hospital and Clinics of Minnesota,429,,,1,,,Yes,,,1,,,Yes,,(612) 813-6000
+Minnesota ,MN,Hennepin,701 Park Ave S,Minneapolis,55415,6610950,Hennepin Healthcare/Hennepin Healthcare Children's Hospital (Hennepin Healthcare Burn Center),484,17,1,1,1,1,Yes,1,,1,,Yes,Yes,No,(612) 873-3000
+Minnesota ,MN,Hennepin,420 Delaware St SE,Minneapolis,55455,6610004,University of Minnesota Medical Center,743,,1,,,,Yes,,1,,,,Yes,,(612) 273-8400
+Minnesota ,MN,Hennepin,3300 Oakdale Ave N,Robbinsdale,55422,6611455,North Memorial Health Hospital,353,,1,,,,Yes,1,,,,,Yes,,(763) 520-5200
+Minnesota ,MN,Olmsted,1216 2nd Street SW,Rochester,55902,6610451,"Mayo Clinic Hospital, Saint Mary's Campus",1265,,1,1,,,Yes,1,,1,,,Yes,,(507) 255-5123
+Minnesota ,MN,Stearns,1406 Sixth Ave N,Saint Cloud,56303,6611540,CentraCare - St. Cloud Hospital,489,,1,,,,Yes,,1,,,,Yes,,(320) 251-2700
+Minnesota ,MN,Ramsey,640 Jackson St,Saint Paul,55101,6611570,Regions Hospital/Gillette Children's Specialty Healthcare (Regions Hospital Burn Center),457,18,1,1,1,1,Yes,1,,1,,Yes,Yes,No,(651) 254-3456
+Mississippi,MS,Forrest,6051 US Highway 49,Hattiesburg,39401,6540315,Forrest General Hospital,547,,1,,,,No ,,1,,,,Yes,,(601) 288-7000
+Mississippi,MS,Harrison,4500 13th Street,Gulfport,39501,6540300,Memorial Hospital at Gulfport,328,,1,,,,No ,,1,,,,Yes,,(228) 867-4000
+Mississippi,MS,Hinds,2500 North State St,Jackson,39216,6540004,University of Mississippi Medical Center,722,,1,,,,No ,1,,,,,Yes,,(601) 984-1000
+Mississippi,MS,Pontotoc,830 South Gloster St,Tupelo,38801,6540810,North Mississippi Medical Center - Tupelo,640,,1,,,,No ,,1,,,,Yes,,(662) 377-3000
+Missouri,MO,Boone,1 Hospital Dr,Columbia,65212,6630150,University of Missouri Health System (George D. Peak Memorial Burn & Wound Center),247,21,1,,1,1,Yes,1,,,,No,Yes,,(573) 882-4141
+Missouri,MO,Buchanan,5325 Faron St,Saint Joseph,64506,6630009,Mosaic Life Care at St. Joseph - Medical Center,352,,1,,,,No,,1,,,,Yes,,(816) 271-6000
+Missouri,MO,Clay,2525 Glenn Hendren Dr,Liberty,64068,6630605,Liberty Hospital,177,,1,,,,No,,1,,,,Yes,,(816) 781-7200
+Missouri,MO,Clay,2800 Clay Edwards Dr,North Kansas City,64116,6630785,North Kansas City Hospital,431,,1,,,,No,,1,,,,Yes,,(816) 691-2000
+Missouri,MO,Greene,3801 S National Ave,Springfield,65807,6631362,Cox Medical Center South,596,,1,,,,No,1,,,,,Yes,,(417) 269-6000
+Missouri,MO,Greene,1235 E Cherokee,Springfield,65804,6631350,Mercy Hospital Springfield (Mercy Burn Center Springfield),886,9,1,,1,1,No,1,,,,No,Yes,,(417) 820-2000
+Missouri,MO,Jackson,2401 Gillham Rd,Kansas City,64108,6630340,Children's Mercy Kansas City (Children's Mercy Burn Unit),367,13,,1,,1,Yes,,,1,,No,Yes,,(816) 234-3000
+Missouri,MO,Jackson,2316 E Meyer Blvd,Kansas City,64132,6630435,HCA Research Medical Center (The Grossman Burn Center),590,8,1,,1,,Yes,1,,,,No,Yes,,(816) 276-4000
+Missouri,MO,Jackson,2301 Holmes St,Kansas City,64108,6630380,University Health Truman Medical Center,249,,1,,,,Yes,1,,,,,Yes,,(816) 404-1380
+Missouri,MO,Jackson,4401 Wornall Rd,Kansas City,64111,6630470,St. Luke's Hospital of Kansas City,422,,1,,,,No,1,,,,,Yes,,(816) 932-3800
+Missouri,MO,Jackson,19600 East 39th St,Independence ,64057,6630039,Centerpoint Medical Center,285,,1,,,,No,,1,,,,Yes,,(816)698-7000
+Missouri,MO,Jasper,1102 W 32nd St,Joplin,64804,6630008,Freeman Health System,380,,1,,,,No,,1,,,,Yes,,(417) 347-1111
+Missouri,MO,Jasper,100 Mercy Way,Joplin,64804,6630330,Mercy Hospital Joplin,221,,1,,,,No,,1,,,,Yes,,(417) 781-2727
+Missouri,MO,St. Louis,12303 DePaul Dr,Bridgeton,63044,6630985,SSM Health DePaul Hospital - St. Louis,523,,1,,,,No,,1,,,,Yes,,(314) 344-6000
+Missouri,MO,St. Louis ,10010 Kennerly Rd,Saint Louis,63128,6631160,Mercy Hospital South,542,,1,,,,No,,1,,,,Yes,,(314) 525-1000
+Missouri,MO,St. Louis ,1 Barnes Jewish Hospital Plz,Saint Louis,63110,6630930,Barnes-Jewish Hospital (Burn Center),1405,24,1,,1,,Yes,1,,,,No,Yes,,(314) 747-3000
+Missouri,MO,St. Louis ,3635 Vista Ave,Saint Louis,63104,6631020,SSM Health St. Louis University Hospital,356,,1,,,,Yes,1,,,,,Yes,,(314) 577-8000
+Missouri,MO,St. Louis ,1 Childrens Pl,Saint Louis,63110,6631180,St. Louis Children's Hospital (Children's Hospital Burn Center),402,6,,1,,1,Yes,,,1,,No,Yes,,(314) 454-2782
+Missouri,MO,St. Louis ,615 S New Ballas Rd,Saint Louis,63141,6631165,Mercy Hospital St. Louis (Mercy Burn Center St. Louis),979,12,1,,1,1,No,1,,,,Yes,Yes,,(314) 251-6000
+Missouri,MO,St. Louis ,1465 S Grand Blvd,Saint Louis,63104,6630945,SSM Cardinal Glennon Children's Hospital,195,,,1,,,No,,,1,,,Yes,,(314) 577-5600
+Montana,MT,Cascade,1101 26th St S,Great Falls,59405,6810003,Benefis Hospitals,530,,1,,,,Yes,,1,,,,Yes,,(406) 455-5000
+Montana,MT,Missoula,500 W Broadway,Missoula,59802,6810430,Providence St. Patrick Hospital,237,,1,,,,Yes,,1,,,,Yes,,(406) 543-7271
+Montana,MT,Yellowstone,2800 10th Ave North,Billings,59108,6810020,Billings Clinic,304,,1,,,,Yes,,1,,,,Yes,,(406) 238-2500
+Montana,MT,Yellowstone,1233 N 30th St,Billings,59101,6810030,SCL Health - St. Vincent Healthcare,286,,1,,,,Yes,,1,,,,Yes,,(406) 237-7000
+Nebraska,NE,Buffalo,10 E 31st St,Kearney ,68847,6660002,CHI Health Good Samaritan,268,,1,,,,No,,1,,,,Yes,,(308) 865-7100
+Nebraska,NE,Douglas,7500 Mercy Rd,Omaha,68124,6660720,CHI Health Creighton University Medical Center - Bergan Mercy,391,,1,,,,Yes,1,,,,,Yes,,(402) 398-6060
+Nebraska,NE,Douglas,8200 Dodge St,Omaha,68114,6660635,Children's Hospital & Medical Center,145,,,1,,,Yes,,,1,,,Yes,,(402) 955-5400
+Nebraska,NE,Douglas,4350 Dewey Ave,Omaha,68105,6660005,Nebraska Medicine - Nebraska Medical Center,718,,1,,,,Yes,1,,,,,Yes,,(402) 552-2000
+Nebraska,NE,Lancaster,2300 South 16th St,Lincoln,68502,6660420,Bryan Medical Center West,640,,1,,,,Yes,,1,,,,Yes,,(402) 481-1111
+Nebraska,NE,Lancaster,555 S 70th St,Lincoln,68510,6660460,CHI Health St. Elizabeth Regional Burn Center,16,16,,,1,1,,,,,,Yes,,Yes,(402) 219-7680
+Nebraska,NE,Sioux,4021 Avenue B,Scottsbluff,69361,6660810,Regional West Medical Center,188,,1,,,,No,,1,,,,Yes,,(308) 635-3711
+Nevada,NV,Clark,3186 S Maryland Pkwy,Las Vegas,89109,6880069,Sunrise Hospital and Medical Center (Burn and Reconstructive Center of Sunrise Hospital),701,15,1,,1,1,Yes,,1,,,No,Yes,No,(702) 961-5000
+Nevada,NV,Clark,1800 W Charleston Blvd,Las Vegas,89102,6880071,University Medical Center (Lions Burn Center),564,16,1,1,1,1,Yes,1,,,1,Yes,Yes,No,(702) 383-2000
+Nevada,NV,Washoe,1155 Mill St,Reno,89502,6880130,Renown Regional Medical Center,808,,1,,,,Yes,,1,,,,Yes,,(775) 982-4100
+New Hampshire,NH,Grafton,1 Medical Center Dr,Lebanon,03756,6120170,Dartmouth-Hitchcock Medical Center,396,,1,1,,,Yes,1,,,1,,Yes,,(603) 650-5000
+New Hampshire,NH,Merrimack,250 Pleasant St,Concord,03301,6120030,Concord Hospital,295,,1,,,,Yes,,1,,,,Yes,,(603) 225-2711
+New Hampshire,NH,Rockingham,1 Elliot Way,Manchester,03103,6120240,Elliot Hospital,296,,1,,,,Yes,,1,,,,Yes,,(603) 669-5300
+New Hampshire,NH,Rockingham,333 Borthwick Ave,Portsmouth,03801,6120001,Portsmouth Regional Hospital,220,,1,,,,Yes,,1,,,,Yes,,(603) 436-5110
+New Jersey,NJ,Atlantic,1925 Pacific Ave,Atlantic City,08401,6220040,AtlantiCare Regional Medical Center,540,,1,,,,Yes,,1,,,,Yes,,(609) 345-4000
+New Jersey,NJ,Bergen,30 Prospect Ave,Hackensack,07601,6220340,Hackensack University Medical Center,781,,1,,,,Yes,1,,,,,Yes,,(551) 996-2000
+New Jersey,NJ,Camden,1 Cooper Plaza,Camden,08103,6220190,Cooper University Health Care,635,,1,1,,,Yes,1,,,1,,Yes,,(856) 342-2000
+New Jersey,NJ,Essex,150 Bergen St,Newark,07103,6220785,New Jersey Trauma Center at the University Hospital,518,,1,1,,,Yes,1,,,1,,Yes,,(973) 972-4300
+New Jersey,NJ,Essex,94 Old Short Hills Rd,Livingston,07039,6220800,The Burn Center at Cooperman Barnabas Medical Center,12,12,,,1,1,,,,,,Yes,,Yes,(973) 322-5924
+New Jersey,NJ,Hudson,355 Grand St,Jersey City,07302,6220435,Jersey City Medical Center - RWJBarnabas Health,332,,1,,,,Yes,,1,,,,Yes,,(201) 885-4750
+New Jersey,NJ,Mercer,750 Brunswick Ave,Trenton,08638,6221500,Capital Health Regional Medical Center,265,,1,,,,Yes,,1,,,,Yes,,(609) 394-6000
+New Jersey,NJ,Middlesex,1 Robert Wood Johnson Pl,New Brunswick,08901,6220920,Robert Wood Johnson University Hospital,965,,1,1,,,Yes,1,,,1,,Yes,,(732) 828-3000
+New Jersey,NJ,Monmouth,1945 Route 33,Neptune,07754,6220740,Jersey Shore University Medical Center,646,,1,1,,,Yes,1,,,1,,Yes,,(732) 775-5500
+New Jersey,NJ,Morris,100 Madison Ave,Morristown,07960,6220680,Morristown Medical Center,693,,1,,,,Yes,1,,,,,Yes,,(973) 971-5000
+New Jersey,NJ,Passaic,703 Main St,Paterson,07503,6221120,St. Joseph's University Medical Center,650,,1,,,,Yes,,1,,,,Yes,,(973) 754-2000
+New Mexico,NM,Bernalillo,2211 Lomas Blvd NE,Albuquerque,87106,6850037,University of New Mexico Hospital (UNM Regional Burn Center),556,10,1,,1,1,Yes,1,,,,No,Yes,No,(505) 272-2111
+New York,NY,Albany,43 New Scotland Ave,Albany,12208,6210030,Albany Medical Center,766,,1,1,,,Yes,1,,,1,,Yes,,(518) 262-3474
+New York,NY,Bronx,234 E 149th St,Bronx,10451,6213010,NYC Health + Hospitals / Lincoln Medical & Mental Health Center,347,,1,,,,Yes,1,,,,,Yes,,(718) 579-5700
+New York,NY,Bronx,1400 Pelham Parkway South,Bronx,10461,6212700,NYC Health + Hospitals / Jacobi Medical Center (Jacobi Burn Center),457,16,1,,1,,Yes,1,,,,No,Yes,Yes,(718) 918-5000
+New York,NY,Bronx,4422 Third Ave,Bronx,10457,6210034,St. Barnabas Hospital,422,,1,,,,Yes,,1,,,,Yes,,(718) 960-9000
+New York,NY,Broome,33-57 Harrison St,Johnson City,13790,6212060,UHS Wilson Medical Center,280,,1,,,,Yes,,1,,,,Yes,,(607) 763-6000
+New York,NY,Dutchess,241 North Rd,Poughkeepsie,12601,6210295,Mid Hudson Regional Hospital of Westchester Medical Center,243,,1,,,,Yes,,1,,,,Yes,,(845) 483-5000
+New York,NY,Dutchess,45 Reade Pl,Poughkeepsie,12601,6214140,Vassar Brothers Medical Center,350,,1,,,,Yes,,1,,,,Yes,,(845) 454-8500
+New York,NY,Erie,462 Grider St,Buffalo,14215,6211070,"Erie County Medical Center (Roger W. Seibel, MD, Burn Treatment Center)",573,8,1,,1,,Yes,1,,,,No,Yes,Yes,(716) 898-3000
+New York,NY,Erie,100 High St,Buffalo,14203,6211025,John R. Oishei Children's Hospital,185,,,1,,,Yes,,,1,,,Yes,,(716) 878-7000
+New York,NY,Kings,1 Brookdale Plaza,Brooklyn,11212,6210440,Brookdale Hospital Medical Center,530,,1,,,,Yes,,1,,,,Yes,,(718) 240-5000
+New York,NY,Kings,4802 10th Ave,Brooklyn,11219,6210747,Maimonides Medical Center/Maimonides Children's Hospital,711,,1,1,,,Yes,1,,,1,,Yes,,(718) 283-6000
+New York,NY,Kings,506 6th St,Brooklyn,11215,6210555,NewYork Presbyterian Brooklyn Methodist Hospital,591,,1,,,,Yes,,1,,,,Yes,,(718) 780-3101
+New York,NY,Kings,451 Clarkson Ave,Brooklyn,11203,6210690,NYC Health + Hospitals / Kings County,627,,1,,,,Yes,1,,,,,Yes,,(718) 245-3901
+New York,NY,Kings,150 55th St,Brooklyn,11220,6210770,NYU Langone Hospital-Brooklyn ,450,,1,,,,Yes,1,,,,,Yes,,(718) 630-7300
+New York,NY,Monroe,601 Elmwwod Ave,Rochester,14642,6214330,University of Rochester Medical Center/Strong Memorial Hospital (Kessler Burn Center),886,50,1,1,1,1,Yes,1,,1,,Yes,Yes,Yes,(585) 275-8387
+New York,NY,Nassau,1 Health Way,Oceanside,11572,6213735,Mount Sinai South Nassau,455,,1,,,,Yes,,1,,,,Yes,,(516) 632-3000
+New York,NY,Nassau,2201 Hempstead Turnpike,East Meadow,11554,6211810,Nassau University Medical Center (Nassau County Firefighters Burn Center),530,10,1,,1,,Yes,1,,,,No,Yes,Yes,(516) 572-0123
+New York,NY,Nassau,26901 76th Ave,New Hyde Park,11040,6211675,Cohen Children's Medical Center,202,,,1,,,Yes,,,1,,,Yes,,(718) 470-7764
+New York,NY,Nassau,300 Community Dr,Manhasset,11030,6212357,North Shore University Hospital,756,,1,,,,Yes,1,,,,,Yes,,(516) 562-0100
+New York,NY,Nassau,259 1st St,Mineola,11501,6212450,NYU Langone Hospital-Long Island,591,,1,,,,Yes,1,,,,,Yes,,(516) 663-0333
+New York,NY,New York,1111 Amsterdam Ave,New York,10025,6213335,Mount Sinai Morningside,495,,1,,,,Yes,,1,,,,Yes,,(212) 523-4000
+New York,NY,New York,622 W 168th St,New York,10032,6210032,Morgan Stanley Children's Hospital of New York-Presbyterian,269,,,1,,,Yes,,,1,,,Yes,,(212) 305-2500
+New York,NY,New York,462 First Ave,New York,10016,6212630,NYC Health + Hospitals / Bellevue Hospital,912,,1,,,,Yes,1,,,,,Yes,,(212) 562-4132
+New York,NY,"New York	",525 E 68th St,New York,10065,6213510,New York-Presbyterian Hospital/Weill Cornell Medical Center (William Randolph Hearst Burn Center),862,20,1,1,1,1,Yes,1,,,1,Yes,Yes,Yes,(212) 746-5454
+New York,NY,"New York	",506 Lenox Ave,New York,10037,6212830,NYC Health + Hospitals / Harlem Hospital (Harlem Burn Center),272,5,1,,1,1,Yes,,1,,,No,Yes,Yes,(212) 939-1000
+New York,NY,Onondaga,750 E Adams St,Syracuse,13210,6214885,Upstate University Hospital/Upstate Golisano Children's Hospital (Clark Burn Center),752,6,1,1,1,1,Yes,1,,1,,Yes,Yes,Yes,(315) 464-5540
+New York,NY,Orange,707 East Main St,Middletown,10940,6210041,Garnet Health Medical Center,383,,1,,,,Yes,,1,,,,Yes,,(845) 333-1000
+New York,NY,Queens,8900 Van Wyck Expressway,Jamaica,11418,6211980,Jamaica Hospital Medical Center,404,,1,,,,Yes,1,,,,,Yes,,(718) 206-6000
+New York,NY,Queens,5645 Main St,Flushing,11355,6211595,New York-Presbyterian - Queens,535,,1,,,,Yes,1,,,,,Yes,,(718) 670-2000
+New York,NY,Queens,7901 Broadway,Elmhurst,11373,6213180,NYC Health + Hospitals / Elmhurst,545,,1,,,,Yes,1,,,,,Yes,,(718) 334-4000
+New York,NY,Richmond,475 Seaview Ave,Staten Island,10305,6214735,Staten Island University Hospital (Staten Island University Hospital Burn Center),472,10,1,1,1,1,Yes,1,,,1,No,Yes,Yes,(718) 226-9515
+New York,NY,Richmond,355 Bard Ave,Staten Island,10310,6210025,Richmond University Medical Center,470,,1,1,,,Yes,1,,,1,,Yes,,(718) 818-1234
+New York,NY,Suffolk,1000 Montauk Hwy,West Islip,11795,6215295,Good Samaritan Hospital Medical Center,537,,1,1,,,Yes,,1,,1,,Yes,,(631) 376-3000
+New York,NY,Suffolk,301 E Main St,Bay Shore,11706,6210280,South Shore University Hospital (SSUH),305,,1,,,,Yes,,1,,,,Yes,,(631) 968-3000
+New York,NY,Suffolk,101 Nicolls Rd,Stony Brook,11794,6214775,Stony Brook Medicine (Suffolk County Volunteer Firefighters Burn Center),624,8,1,1,1,1,Yes,1,,1,,No,Yes,Yes,(631) 444-1077
+New York,NY,Westchester,100 Woods Rd,Valhalla,10595,6215150,Westchester Medical Center/Maria Fareri Children's Hospital (Trauma Center at Westchester Medical Center),624,10,1,1,1,1,Yes,1,,1,,No,Yes,Yes,(914) 493-7018
+North Carolina,NC,Buncombe,509 Biltmore Ave,Asheville,28801,6360013,Mission Hospitals,770,,1,,,,No,,1,,,,Yes,,(828) 213-1111
+North Carolina,NC,Durham,2301 Erwin Rd,Durham,27710,6360355,Duke University Hospital,957,,1,,,,Yes,1,,,,,Yes,,(919) 684-8111
+North Carolina,NC,Forsyth,1 Medical Center Blvd,Winston-Salem,27157,6361700,Wake Forest Baptist Medical Center/Brenner Children's Hospital (Wake Forest Baptist Burn Center),885,24,1,1,1,1,Yes,1,,1,,Yes,Yes,No,(336) 716-2011
+North Carolina,NC,Guilford,1200 N Elm St,Greensboro,27401,6360002,Moses H. Cone Memorial Hospital,628,,1,,,,Yes,,1,,,,Yes,,(336) 832-7000
+North Carolina,NC,Mecklenburg,1000 Blythe Blvd,Charlotte,28203,6360280,Carolinas Medical Center/Levine Children's Hospital,874,,1,1,,,Yes,1,,1,,,Yes,,(704) 355-2000
+North Carolina,NC,New Hanover,2131 South 17th St,Wilmington,28401,6360019,New Hanover Regional Medical Center,800,,1,,,,Yes,,1,,,,Yes,,(910) 667-7000
+North Carolina,NC,Orange,101 Manning Dr,Chapel Hill,27514,6360260,University of North CarolinaHospitals/North Carolina Children's Hospital (North Carolina Jaycee Burn Center),905,36,1,1,1,1,Yes,1,,1,,Yes,Yes,No,(984) 974-1000
+North Carolina,NC,Pitt,2100 Stantonsburg Rd,Greenville,27835,6360690,Vidant Medical Center/Maynard Children's Hospital,974,,1,1,,,Yes,1,,,1,,Yes,,(252) 847-4100
+North Carolina,NC,Wake,3000 New Bern Ave,Raleigh,27610,6360001,"WakeMed Health & Hospitals, Raleigh Campus",567,,1,,,,Yes,1,,,,,Yes,,(919) 350-8000
+North Dakota,ND,Burleigh,900 E Broadway,Bismarck,58501,6640040,CHI St. Alexius Health Bismarck,286,,1,,,,Yes,,1,,,No,Yes,,(701) 530-7000
+North Dakota,ND,Burleigh,300 North 7th St,Bismarck,58501,6640020,Sanford Medical Center,242,,1,,,,Yes,,1,,,No,Yes,,(701) 323-6000
+North Dakota,ND,Cass,3000 32nd Ave South,Fargo,58103,6640003,Essentia Health Fargo,133,,1,,,,Yes,,1,,,No,Yes,,(701) 364-8000
+North Dakota,ND,Cass,801 Broadway N,Fargo,58104,6640180,Sanford Medical Center Fargo,284,,1,1,,,Yes,1,,,1,No,Yes,,(701) 417-2000
+North Dakota,ND,Grand Forks,1200 S Columbia Rd,Grand Forks,58201,6640001,Altru Health System,257,,1,,,,Yes,,1,,,No,Yes,,(701) 780-5000
+North Dakota,ND,Ward,1 Burdick Expy,Minot,58701,6640004,Trinity Health,251,,1,,,,Yes,,1,,,No,Yes,,(701) 857-5000
+Ohio,OH,Allen,1001 Bellefontaine Ave,Lima,45804,6411540,Lima Memorial Health System,329,,1,,,,Yes,,1,,,,Yes,,(419) 228-3335
+Ohio,OH,Allen,730 W Market St,Lima,45801,6411560,Mercy Health - St. Rita's Medical Center,425,,1,,,,Yes,,1,,,,Yes,,(419) 226-9637
+Ohio,OH,Cuyahoga,6780 Mayfield Rd,Mayfield Heights,44124,6410945,Cleveland Clinic Hillcrest Hospital,500,,1,,,,Yes,,1,,,,Yes,,(440) 312-4500
+Ohio,OH,Cuyahoga,18101 Lorain Ave,Cleveland,44111,6410710,Fairview Hospital,488,,1,,,,Yes,,1,,,,Yes,,(216) 476-7000
+Ohio,OH,Cuyahoga,2500 MetroHealth Dr,Cleveland,44109,6410655,MetroHealth Medical Center (Burn Care Center at MetroHealth),626,14,1,1,1,1,Yes,1,,,1,Yes,Yes,Yes,(216) 778-7800
+Ohio,OH,Cuyahoga,2101 Adelbert Rd,Cleveland,44106,6410922,UH Rainbow Babies and Children's Hospital,244,,,1,,,Yes,,,1,,,Yes,,(216) 844-1000
+Ohio,OH,Cuyahoga,11100 Euclid Ave,Cleveland,44106,6410920,University Hospitals Cleveland Medical Center,1032,,1,,,,Yes,1,,,,,Yes,,(866) 844-2273
+Ohio,OH,Franklin,111 S Grant Ave,Columbus,43215,6411010,Grant Medical Center,434,,1,,,,Yes,1,,,,,Yes,,(614) 566-9000
+Ohio,OH,Franklin,700 Children's Dr,Columbus,43205,6410950,Nationwide Children's Hospital (Burn Center at Nationwide Children's Hospital),527,15,,1,,1,Yes,,,1,,Yes,Yes,Yes, (614) 722-2000
+Ohio,OH,Franklin,410 West 10th Ave,Columbus,43210,6411100,Ohio State University Wexner Medical Center (The Ohio State Comprehensive Burn Center),900,18,1,,1,,Yes,1,,,,Yes,Yes,Yes,(614) 293-8000
+Ohio,OH,Franklin,6001 East Broad Street,Columbus,43213,6418083,Mount Carmel East,233,,1,,,,Yes,,1,,,,Yes,,(614) 234-6000
+Ohio,OH,Franklin,3535 Olentangy River Rd,Columbus,43214,6411110,OhioHealth Riverside Methodist Hospital,1059,,1,,,,Yes,,1,,,,Yes,,(614) 566-5000
+Ohio,OH,Hamilton,3333 Burnet Ave,Cincinnati,45229,6410391,Cincinnati Children's Hospital Medical Center,670,,,1,,,Yes,,,1,,,Yes,,(513) 636-4200
+Ohio,OH,Hamilton,234 Goodman St,Cincinnati,45219,6410435,University of Cincinnati Medical Center (UC Medical Center Burn Center),726,10,1,,1,,Yes,1,,,,No,Yes,Yes,(513) 584-1000
+Ohio,OH,Lucas,2213 Cherry St,Toledo,43608,6412170,Mercy St. Vincent Medical Center (Mercy Health Medical Burn Center),332,10,1,1,1,,Yes,1,,,1,No,Yes,Yes,(419) 251-3232
+Ohio,OH,Lucas,2142 N Cove Blvd,Toledo,43606,6412180,ProMedica Toledo Hospital/Russell J. Ebeid Children's Hospital,794,,1,1,,,Yes,1,,,1,,Yes,,(419) 291-4000
+Ohio,OH,Mahoning,1044 Belmont Ave,Youngstown ,44501,6412440,Mercy Health - St. Elizabeth Youngstown Hospital,224,,1,,,,Yes,1,,,,,Yes,,(330) 746-7211
+Ohio,OH,Montgomery,1 Childrens Plz,Dayton,45404,6411160,Dayton Children's Hospital (Shriners Children's Ohio Burn Center),155,7,,1,,1,Yes,,,1,,Yes,Yes,Yes,(937) 641-3000
+Ohio,OH,Montgomery,3535 Southern Blvd,Kettering,45429,6411466,Kettering Health Main Campus,403,,1,,,,Yes,,1,,,,Yes,,(937) 298-4331
+Ohio,OH,Montgomery,1 Wyoming St,Dayton,45409,6411190,Miami Valley Hospital (Miami Valley Hospital Regional Burn Center),970,8,1,,1,,Yes,1,,,,No,Yes,Yes,(937) 208-8000
+Ohio,OH,Richland,335 Glessner Ave,Mansfield,44903,6410016,OhioHealth MedCentral Mansfield Hospital,326,,1,,,,Yes,,1,,,,Yes,,(419) 526-8000
+Ohio,OH,Stark,2600 6th Street SW,Canton,44710,6410280,Aultman Hospital,1032,,1,,,,Yes,,1,,,,Yes,,(330) 452-9911
+Ohio,OH,Stark,1320 Mercy Dr NW,Canton,44708,6410290,Mercy Medical Center - Canton,476,,1,,,,Yes,,1,,,,Yes,,(330) 489-1000
+Ohio,OH,Summit,1 Perkins Sq,Akron,44308,6410055,Akron Children's Hospital (Akron Children's Hospital Burn Center),289,12,,1,1,1,Yes,,,,1,Yes,Yes,Yes,(330) 543-1000
+Ohio,OH,Summit,1 Akron General Ave,Akron,44307,6410010,Cleveland Clinic Akron General,532,,1,,,,Yes,1,,,,,Yes,,(330) 344-6000
+Ohio,OH,Summit,525 E Market St,Akron,44309,6410030,Summa Akron City Hospital,680,,1,,,,Yes,1,,,,,Yes,,(330) 375-3000
+Oklahoma,OK,Oklahoma,700 NE 13th St,Oklahoma City,73104,6730024,OU Medical Center,749,,1,1,,,Yes,1,,1,,,Yes,,(405) 271-4700
+Oklahoma,OK,Oklahoma,3300 NW Expy,Oklahoma City,73112,6730728,Paul Silvertein Burn Center,20,20,,,1,,,,,,,No,,Yes,(405) 949-3345
+Oklahoma,OK,Tulsa,1923 S Utica Ave,Tulsa,74104,6731220,Ascension St. John Medical Center (Alexander Burn Center),495,13,1,,1,1,Yes,,1,,,No,Yes,Yes,(918) 744-2345
+Oregon,OR,Benton,3600 NW Samaritan Dr,Corvallis,97330,6920110,Good Samaritan Regional Medical Center,188,,1,,,,No,,1,,,,Yes,,(541) 768-5111
+Oregon,OR,Deschutes,2500 NE Neff Rd,Bend,97701,6920070,St. Charles Medical Center Bend,226,,1,,,,No,,1,,,,Yes,,(541) 382-4321
+Oregon,OR,Jackson,2825 E Barnett Rd,Medford,97504,6920280,Asante Rogue Regional Medical Center,378,,1,,,,No,,1,,,,Yes,,(541) 789-7000
+Oregon,OR,Lane,3333 River Bend Dr,Springfield,97477,6920051,Peacehealth Sacred Heart Medical Center at RiverBend,392,,1,,,,Yes,,1,,,,Yes,,(541) 222-7300
+Oregon,OR,Marion,890 SE Oak St,Salem,97301,6920708,Salem Hospital,454,,1,,,,No,,1,,,,Yes,,(503) 561-5200
+Oregon,OR,Multnomah,2801 N Gantenbein Ave,Portland,97227,6920003,Legacy Emanuel Medical Center/Randall Children's Hospital (Oregon Burn Center),554,16,1,1,1,1,Yes,1,,1,,Yes,Yes,Yes,(503) 413-2200
+Oregon,OR,Multnomah,3181 SW Sam Jackson Park Rd,Portland,97239,6920570,Oregon Health & Science University/Doernbecher Children's Hospital,576,,1,1,,,Yes,1,,1,,,Yes,,(503) 494-8311
+Pennsylvania,PA,Allegheny,320 E North Ave,Pittsburgh,15212,6230041,Allegheny General Hospital,576,,1,,,,No,1,,,,,Yes,,(412) 359-3131
+Pennsylvania,PA,Allegheny,1400 Locust St,Pittsburgh,15219,6232510,UPMC Mercy (UPMC Mercy Burn Center),404,9,1,,1,,No,1,,,,Yes,Yes,,(412) 232-8111
+Pennsylvania,PA,Allegheny,200 Lothrop St,Pittsburgh,15213,6230029,UPMC Presbyterian,900,,1,,,,No,1,,,,,Yes,,(412) 647-2345
+Pennsylvania,PA,Allegheny,4401 Penn Avenue,Pittsburgh,15224,6232430,UPMC Children's Hospital of Pittsburgh,296,,,1,,,No,,,1,,,Yes,,(412) 682-8288
+Pennsylvania,PA,Allegheny,2570 Haymaker Rd,Monroeville ,15146,6232551,Forbes Hospital,349,,1,,,,No,,1,,,,Yes,,(412) 858-2000
+Pennsylvania,PA,Allegheny,4800 Friendship Ave,Pittsburgh,15224,6232690,West Penn Hospital Burn Center,14,14,,,1,1,,,,,,Yes,,,(412) 578-5120
+Pennsylvania,PA,Berks,420 S 5th Ave,West Reading,19611,6233443,Reading Hospital - Tower Health,714,,1,,,,No,1,,,,,Yes,,(484) 628-8000
+Pennsylvania,PA,Blair,620 Howard Ave,Altoona ,16601,6230086,UPMC Altoona,380,,1,,,,No,,1,,,,Yes,,(814) 889-2011
+Pennsylvania,PA,Bradford,1 Guthrie Sq,Sayre ,18840,6232970,Guthrie Robert Packer Hospital,254,,1,,,,No,,1,,,,Yes,,(570) 887-4050
+Pennsylvania,PA,Bucks,1201 Langhorne-Newtown R,Langhorne ,19047,6231130,St. Mary Medical Center,374,,1,,,,No,,1,,,,Yes,,(215) 710-2000
+Pennsylvania,PA,Bucks,700 Lawn Ave,Sellersville ,18960,6233090,Grand View Health,169,,1,,,,No,,1,,,,Yes,,(215) 453-4000
+Pennsylvania,PA,Cambria,1086 Franklin St,Johnstown ,15905,6230052,Conemaugh Memorial Medical Center,537,,1,,,,No,1,,,,,Yes,,(814) 534-9000
+Pennsylvania,PA,Chester,255 W Lancaster Ave,Paoli ,19301,6233430,Paoli Hospital,226,,1,,,,No,,1,,,,Yes,,(484) 465-1000
+Pennsylvania,PA,Cumberland,503 N 21st St,Camp Hill,17011,6230297,Penn State Health Holy Spirit Medical Center,307,,1,,,,No,,1,,,,Yes,,(717) 763-2100
+Pennsylvania,PA,Dauphin,500 University Dr,Hershey,17033,6230705,Penn State Milton S. Hershey Medical Center/Penn State Children's Hospital,625,,1,1,,,No,1,,1,,,Yes,,(717) 531-6066
+Pennsylvania,PA,Delaware,1 Medical Center Blvd,Chester,19013,6230400,Crozer-Chester Medical Center (Nathan Speare Regional Burn Treatment Center),300,14,1,,1,,No,,1,,,Yes,Yes,,(610) 447-2000
+Pennsylvania,PA,Erie,201 State St,Erie ,16550,6230760,UPMC Hamot,412,,1,,,,No,,1,,,,Yes,,(814) 877-6000
+Pennsylvania,PA,Lackawanna ,1800 Mulberry St,Scranton ,18510,6232980,Geisinger Community Medical Center,297,,1,,,,No,,1,,,,Yes,,(570) 703-7245
+Pennsylvania,PA,Lancaster,555 N Duke St,Lancaster ,17602,6231120,Penn Medicine Lancaster General Hospital,525,,1,,,,No,1,,,,,Yes,,(717) 544-5511
+Pennsylvania,PA,Lehigh,1200 S Cedar Crest Blvd,Allentown,18103,6230013,Lehigh Valley Hospital-Cedar Crest/Lehigh Valley Reilly Children's Hospital (Lehigh Valley Health Network Regional Burn Center),779,18,1,1,1,1,No,1,,,1,Yes,Yes,,(610) 402-8000
+Pennsylvania,PA,Luzerne,1000 E Mountain Dr,Wilkes-Barre,18711,6232725,Geisinger Wyoming Valley Medical Center,291,,1,,,,No,,1,,,,Yes,,(570) 808-7300
+Pennsylvania,PA,Montgomery,1200 Old York Rd,Abington ,19001,6230010,Jefferson Abington Health,665,,1,,,,No,,1,,,,Yes,,(215) 481-2000
+Pennsylvania,PA,Montgomery,100 E Lancaster Ave,Wynnewood ,19096,6231970,Lankenau Medical Center,331,,1,,,,No,,1,,,,Yes,,(484) 479-2000
+Pennsylvania,PA,Montour,100 North Academy Ave,Danville,17822,6230550,Geisinger Medical Center/ Geisinger Janet Weis Children's Hospital,370,,1,1,,,No,1,,,1,,Yes,,(570) 271-7149
+Pennsylvania,PA,Northampton,801 Ostrum St,Bethlehem ,18015,6230049,St. Luke's University Hospital - Bethlehem Campus,400,,1,,,,No,1,,,,,Yes,,(484) 526-4000
+Pennsylvania,PA,Northampton,2545 Schoenersville Rd,Bethlehem ,18017,6230035,Lehigh Valley Hospital - Muhlenberg,195,,1,,,,No,,1,,,,Yes,,(610) 402-8000
+Pennsylvania,PA,Northampton,1872 St Luke's Blvd,Easton ,18045,6230456,St. Luke's Anderson Campus,108,,1,,,,No,,1,,,,Yes,,(866) 785-8537
+Pennsylvania,PA,Philadelphia,5501 Old York Rd,Philadelphia ,19141,6231634,Einstein Medical Center Philadelphia,548,,1,,,,No,1,,,,,Yes,,(215) 456-7890
+Pennsylvania,PA,Philadelphia,3401 N Broad St,Philadelphia ,19140,6232300,Temple University Hospital (Temple Burn Center),714,10,1,,1,,No,1,,,,Yes,Yes,,(215) 707-2000
+Pennsylvania,PA,Philadelphia,111 South 11th St,Philadelphia ,19107,6230043,Thomas Jefferson University Hospital (Thomas Jefferson University Hospital Burn Center),926,,1,,1,,No,1,,,,No,Yes,,(215) 955-6000
+Pennsylvania,PA,Philadelphia,51 N 39th St,Philadelphia ,19104,6232170,Penn Presbyterian Medical Center,344,,1,,,,No,1,,,,,Yes,,(215) 662-4000
+Pennsylvania,PA,Philadelphia,3601 A Street,Philadelphia ,19134,6232210,St. Christopher's Hospital for Children (Stuart J. Hulnick Burn Center),189,18,,1,,1,No,,,1,,Yes,Yes,,(215) 427-5000
+Pennsylvania,PA,Philadelphia,3401 Civic Center Blvd,Philadelphia ,19104,6231730,Children's Hospital of Philadelphia,594,,,1,,,No,,,1,,,Yes,,(215) 590-4678
+Pennsylvania,PA,Philadelphia,10800 Knights Rd,Philadelphia ,19114,6230054,Jefferson Torresdale Hospital,258,,1,,,,No,,1,,,,Yes,,(215) 612-4000
+Pennsylvania,PA,Williamsport,700 High St,Williamsport ,17701,6233500,UPMC Williamsport,224,,1,,,,No,,1,,,,Yes,,(570) 321-1000
+Pennsylvania,PA,York,1001 S George Sr,York,17403,6233550,WellSpan York Hospital,596,,1,,,,No,1,,,,,Yes,,(717) 851-2345
+Rhode Island,RI,Providence,593 Eddy St,Providence,02903,6150150,Rhode Island Hospital/Hasbro Children's Hospital (Rhode Island Burn Center),719,,1,1,1,1,Yes,1,,1,,Yes,Yes,,(401) 444-4000
+South Carolina,SC,Charleston,9330 Medical Plaza Dr,Charleston,29406,6370232,HCA Trident Medical Center ,407,,1,,,,Yes,,1,,,,Yes,,(843) 797-7000
+South Carolina,SC,Charleston,169 Ashley Ave,Charleston,29425,6370085,MUSC Health University Medical Center (South Carolina Burn Center at MUSC),865,25,1,,1,1,Yes,1,,,,No,Yes,No,(843) 792-2300
+South Carolina,SC,Charleston,10 McClennan Banks Dr,Charleston,29425,6370435,Shawn Jenkins Children's Hospital,250,,,1,,,Yes,,,1,,,Yes,,(843) 792-1414
+South Carolina,SC,Florence,555 E Cheves St,Florence,29506,6370009,McLeod Regional Medical Center,517,,1,,,,No,,1,,,,Yes,,(843) 777-2000
+South Carolina,SC,Greenville,701 Grove Rd,Greenville,29605,6370323,Prisma Health Greenville Memorial Hospital,746,,1,1,,,Yes,1,,,1,,Yes,,(864) 455-7000
+South Carolina,SC,Horry,809 82nd Pkwy,Myrtle Beach,29572,6370477,Grand Strand Medical Center,371,,1,1,,,Yes,1,,,1,,Yes,,(843) 692-1000
+South Carolina,SC,Richland,5 Richland Medical Park Dr,Columbia,29203,6370140,Prisma Health Richland,641,,1,1,,,Yes,1,,,1,,Yes,,(803) 434-7000
+South Carolina,SC,Spartanburg,101 E Wood St,Spartanburg,29303,6370610,Spartanburg Medical Center - Church Street Campus,540,,1,,,,Yes,1,,,,,Yes,,(864) 560-6000
+South Dakota,SD,Meade,353 Fairmont Blvd,Rapid City,57701,6650002,Monument Health Rapid City Hospital,417,,1,,,,Yes,,1,,,No,Yes,,(605) 755-1000
+South Dakota,SD,Minnehaha,1325 S Cliff Ave,Sioux Falls,57105,6650420,Avera McKennan Hospital and University Health Center,545,,1,,,,Yes,,1,,,No,Yes,,(605) 322-8000
+South Dakota,SD,Minnehaha,1305 W 18th St,Sioux Falls,57117,6650007,Sanford USD Medical Center,545,,1,1,,,Yes,,1,,1,No,Yes,,(605) 333-1000
+Tennessee,TN,Davidson,3441 Dickerson Pike,Nashville,37207,6521020,TriStar Skyline Medical Center (TriStar Skyline Burn and Reconstruction Center),233,12,1,,1,1,Yes,,1,,,No,Yes,No,(615) 769-2000
+Tennessee,TN,Davidson,1211 Medical Center Dr,Nashville,37232,6521060,Vanderbilt University Medical Center/Monroe Carell Jr. Children's Hospital at Vanderbilt (Vanderbilt Burn Center),897,25,1,1,1,1,Yes,1,,1,,No,Yes,No,(615) 322-5000
+Tennessee,TN,Hamilton,975 E Third St,Chattanooga,37403,6520065,Erlanger Baroness Hospital,680,,1,,,,Yes,1,,,,,Yes,,(423) 778-7000
+Tennessee,TN,Knox,1924 Alcoa Hwy,Knoxville,37920,6520575,University of Tennessee Medical Center,710,,1,,,,Yes,1,,,,,Yes,,(865) 305-9000
+Tennessee,TN,Shelby,848 Adams Ave,Memphis,38103,6520775,Le Bonheur Children's Hospital,255,,,1,,,Yes,,,1,,,Yes,,(901) 287-5437
+Tennessee,TN,Shelby,877 Jefferson Ave,Memphis,38103,6520695,Regional One Health (Firefighters Regional One Burn Center),631,14,1,,1,,No,1,,,,Yes,Yes,No,(901) 545-7100
+Tennessee,TN,Sullivan,1 Medical Park Blvd,Bristol,37620,6520040,Bristol Regional Medical Center,288,,1,,,,No,,1,,,,Yes,,(423) 844-1121
+Tennessee,TN,Washington,400 N State of Franklin Rd,Johnson City,37604,6520466,Johnson City Medical Center,445,,1,,,,No,1,,,,,Yes,,(423) 431-6111
+Texas,TX,Bell,2401 S 31st St,Temple,76508,6743413,Baylor Scott & White Medical Center - Temple,636,,1,1,,,Yes,1,,,1,,Yes,,(254) 724-2111
+Texas,TX,Bexar,3551 Roger Brooke Dr,Fort Sam Houston,78234,6741380,Brooke Army Medical Center (USAISR Burn Center),425,40,1,,1,,Yes,1,,,,Yes,Yes,No,(210) 916-4141
+Texas,TX,Bexar,4502 Medical Dr,San Antonio,78229,6743106,University Hospital (Pediatric Burn Center),700,,1,1,,1,Yes,1,,1,,No,Yes,No,(210) 358-4000
+Texas,TX,Bexar,7700 Floyd Curl Dr,San Antonio,78229,6743122,Burn and Reconstructive Centers of America at Methodist Hospital,811,31,,,1,1,,,,,,No,,No,(855) 863-9595
+Texas,TX,Brazos,2801 Franciscan Dr,Bryan,77802,6740500,CHI St. Joseph Regional Health Center,310,,1,,,,Yes,,1,,,,Yes,,(979) 776-3777
+Texas,TX,Cameron,2101 Pease St,Harlingen,78550,6741790,Valley Baptist Medical Center-Harlingen,432,,1,,,,Yes,,1,,,,Yes,,(956) 389-1100
+Texas,TX,Collin,3901 W 15th St,Plano,75075,6742865,Medical City Plano (Burn and Reconstructive Center),557,15,1,,1,1,Yes,1,,,,No,Yes,No,(972) 596-6800
+Texas,TX,Collin,6200 W Parker Rd,Plano,75093,6740945,Texas Health Presbyterian Hospital Plano,366,,1,,,,Yes,,1,,,,Yes,,(972) 981-8000
+Texas,TX,Dallas,3500 Gaston Ave,Dallas,75246,6740900,Baylor University Medical Center at Dallas,1008,,1,,,,Yes,1,,,,,Yes,,(214) 820-0111
+Texas,TX,Dallas,1935 Medical District Dr,Dallas,75235,6740935,Children's Medical Center of Dallas,490,,,1,,,Yes,,,1,,,Yes,,(214) 456-7000
+Texas,TX,Dallas,7777 Forest Ln,Dallas,75230,6741025,Medical City Dallas,899,,,1,,,Yes,,,,1,,Yes,,(972) 566-7000
+Texas,TX,Dallas,1441 N Beckley Ave,Dallas,75203,6741018,Methodist Dallas Medical Center,556,,1,,,,Yes,1,,,,,Yes,,(214) 947-8181
+Texas,TX,Dallas,5200 Harry Hines Blvd,Dallas,75235,6740950,Parkland Memorial Hospital (Parkland Burn Center),870,30,1,,1,1,Yes,1,,,,Yes,Yes,No,(214) 590-8000
+Texas,TX,Dallas,8200 Walnut Hill Ln,Dallas,75231,6741050,Texas Health Presbyterian Hospital of Dallas,888,,1,,,,Yes,1,,,,,Yes,,(214) 345-6789
+Texas,TX,Denton,3535 S I-35 E,Denton,76210,6741155,Medical City Denton,208,,1,,,,Yes,,1,,,,Yes,,(940) 384-3535
+Texas,TX,El Paso,10301 Gateway Blvd W,El Paso,79925,6741225,Del Sol Medical Center,350,,1,,,,Yes,,1,,,,Yes,,(915) 595-9000
+Texas,TX,El Paso,4815 Alameda Ave,El Paso,79905,6741240,University Medical Center of El Paso,394,,1,,,,Yes,1,,,,,Yes,,(915) 544-1200
+Texas,TX,Galveston,301 University Blvd,Galveston,77555,6741615,University of Texas Medical Branch (Blocker Burn Unit),666,6,1,,1,,Yes,1,,,,Yes,Yes,No,(409) 772-1011
+Texas,TX,Galveston,815 Market St,Galveston,77550,6741605,Shriners Hospital for Children - Galveston Pediatric Burn Center,30,30,,,,1,,,,,,Yes,,No,(409) 770-6600
+Texas,TX,Harris,1504 Ben Taub Loop,Houston,77030,6741932,Ben Taub Hospital - Harris Health System,402,,1,,,,Yes,1,,,,,Yes,,(713) 873-2000
+Texas,TX,Harris,500 W Medical Center Blvd,Webster,77598,6740149,HCA Houston Healthcare Clear Lake,558,,1,,,,Yes,,1,,,,Yes,,(281) 332-2511
+Texas,TX,Harris,6411 Fannin St,Houston,77030,6741890,Memorial Hermann Texas Medical Center (John S. Dunn Burn Center),1004,14,1,1,1,,Yes,1,,1,,Yes,Yes,No,(713) 704-4000
+Texas,TX,Harris,6621 Fannin St,Houston,77030,6742018,Texas Children's Hospital,973,,,1,,,Yes,,,1,,,Yes,,(832) 824-1000
+Texas,TX,Hays,6001 Kyle Pkwy,Kyle,78640,6740549,Ascension Seton Hays,112,,1,,,,Yes,,1,,,,Yes,,(512) 504-5000
+Texas,TX,Hidalgo,5501 S McColl Rd,Edinburg,78539,6740232,Doctors Hospital at Renaissance,530,,1,,,,Yes,1,,,,,Yes,,(956) 362-8677
+Texas,TX,Hidalgo,301 West Expy 83,McAllen,78503,6742460,McAllen Medical Center,441,,1,,,,Yes,,1,,,,Yes,,(956) 632-4000
+Texas,TX,Lubbock,4015 22nd Pl,Lubbock,79410,6740038,Covenant Children's Hospital,275,,,1,,,Yes,,,,1,,Yes,,(806) 725-0000
+Texas,TX,Lubbock,3615 19th St,Lubbock,79410,6742360,Covenant Medical Center,977,,1,,,,Yes,,1,,,,Yes,,(806) 725-0000
+Texas,TX,Lubbock,602 Indiana Ave,Lubbock,79408,6742372,University Medical Center (Timothy J. Harnar Burn Center),500,10,1,1,1,1,Yes,1,,,1,Yes,Yes,No,(806) 775-8200
+Texas,TX,McLennan,100 Hillcrest Medical Blvd,Waco,76712,6743650,Baylor Scott & White Hillcrest Medical Center,236,,1,,,,Yes,,1,,,,Yes,,(254) 202-2000
+Texas,TX,Montgomery,504 Medical Center Blvd,Conroe,77304,6740117,HCA Houston Healthcare Conroe,342,,1,,,,Yes,,1,,,,Yes,,(936) 539-1111
+Texas,TX,Montgomery,9250 Pinecroft Ave,The Woodlands,77380,6740744,Memorial Hermann The Woodlands Hospital,397,,1,,,,Yes,,1,,,,Yes,,(713) 897-2300
+Texas,TX,Nueces,600 Elizabeth St,Corpus Christi,78404,6740760,CHRISTUS Spohn Hospital Corpus Christi Shoreline,557,,1,,,,Yes,,1,,,,Yes,,(361) 881-3811
+Texas,TX,Smith,1000 S Beckham Ave,Tyler,75701,6740092,UT Health Tyler,382,,1,,,,Yes,1,,,,,Yes,,(903) 531-8890
+Texas,TX,Tarrant,1650 W College St,Grapevine,76051,6741739,Baylor Scott & White Medical Center - Grapevine,302,,1,,,,Yes,,1,,,,Yes,,(817) 481-1588
+Texas,TX,Tarrant,801 7th Ave,Fort Worth,76104,6741425,Cook Children's Medical Center,443,,,1,,,Yes,,,,1,,Yes,,(682) 885-4000
+Texas,TX,Tarrant,3301 Matlock Rd,Arlington,76015,6740115,Medical City Arlington,443,,1,,,,Yes,,1,,,,Yes,,(682) 509-6200
+Texas,TX,Tarrant,1500 South Main St,Fort Worth,76104,6741483,JPS Health Network,573,,1,,,,Yes,1,,,,,Yes,,(817) 702-1100
+Texas,TX,Tarrant,1301 Pennsylvania Ave,Fort Worth,76104,6741440,Texas Health Harris Methodist Hospital Fort Worth,726,,1,,,,Yes,,1,,,,Yes,,(817) 250-2000
+Texas,TX,Travis,4900 Mueller Blvd,Austin,78723,6740147,Dell Children's Medical Center of Central Texas,248,,,1,,,Yes,,,1,,,Yes,,(512) 324-0000
+Texas,TX,Travis,1500 Red River,Austin,78701,6741110,Dell Seton Medical Center at the University of Texas (w/ Burn Center),211,30,1,,1,,Yes,1,,,,No,Yes,No,(512) 324-7000
+Texas,TX,Travis,901 W Ben White Blvd,Austin,78704,6740095,HCA St. David's South Austin Medical Center,368,,1,,,,Yes,,1,,,,Yes,,(512) 447-2211
+Texas,TX,Wichita,1600 11th St,Wichita Falls,76301,6740136,United Regional Health Care System,325,,1,,,,Yes,,1,,,,Yes,,(940) 764-7000
+Texas,TX,Williamson,201 Seton Pkwy,Round Rock,78665,6740412,Ascension Seton Williamson,181,,1,,,,Yes,,1,,,,Yes,,(512) 324-4000
+Texas,TX,Williamson,2400 Round Rock Ave,Round Rock,78681,6742345,HCA St. David's Round Rock Medical Center,175,,1,,,,Yes,,1,,,,Yes,,(512) 341-1000
+Texas,TX,Smith,800 E Dawson,Tyler,75701,6740044,CHRISTUS Trinity Mother Frances Hospital - Tyler,94,,1,,,,Yes,,1,,,,Yes,,(903) 510-7000
+Texas,TX,Nueces,7101 S Padre Island Dr,Corpus Christi,78412,6740071,HCA Corpus Christi Medical Center - Bay Area,152,,1,,,,Yes,,1,,,,Yes,,(361) 985-1200
+Texas,TX,Harris,710 Cypress Creek Pkwy,Houston,77090,6741895,HCA Houston Healthcare Northwest,271,,1,,,,Yes,,1,,,,Yes,,(281) 440-1000
+Utah,UT,Salt Lake,1200 East 3900 South,Salt Lake City,84124,6870290,HCA St. Mark's Hospital,317,,1,,,,Yes,,1,,,,Yes,,(801) 268-7111
+Utah,UT,Salt Lake,5121 S Cottonwood St,Murray,84107,6870141,Intermountain Medical Center,504,,1,,,,Yes,1,,,,,Yes,,(801) 507-7000
+Utah,UT,Salt Lake,100 N Mario Capecchi Dr,Salt Lake City,84113,6870280,Primary Children's Hospital,289,,,1,,,Yes,,,1,,,Yes,,(801) 662-1000
+Utah,UT,Salt Lake,50 Medical Dr N,Salt Lake City,84132,6870315,University of Utah Health (University of Utah Health Burn Center),527,15,1,,1,1,Yes,1,,,,Yes,Yes,No,(801) 581-2121
+Utah,UT,Utah,1034 N 500 W,Provo,84604,6870220,Utah Valley Hospital,395,,1,,,,Yes,,1,,,,Yes,,(801) 357-7850
+Utah,UT,Washington,1380 E Medical Center Dr,St George,84790,6870016,St. George Regional Hospital,284,,1,,,,Yes,,1,,,,Yes,,(435) 251-1000
+Utah,UT,Weber,5475 S 500 E,Ogden,84405,6870150,HCA Ogden Regional Medical Center,232,,1,,,,Yes,,1,,,,Yes,,(801) 479-2111
+Utah,UT,Weber,4401 Harrison Blvd,Ogden,84403,6870160,McKay-Dee Hospital,321,,1,,,,Yes,,1,,,,Yes,,(801) 387-2800
+Vermont,VT,Chittenden,111 Colchester Ave,Burlington,05401,6130001,The University of Vermont Medical Center (University of Vermont Burn Center),620,9,1,1,1,,Yes,1,,,1,No,Yes,,(802) 847-0000
+Virginia,VA,Arlington,1701 N George Mason Dr,Arlington,22205,6340040,Virginia Hospital Center in Arlington,394,,1,,,,No,,1,,,,Yes,,(703) 558-5000
+Virginia,VA,Charlottesville,1215 Lee St,Charlottesville,22903,6344000,University of Virginia Medical Center,671,,1,,,,Yes,1,,,,,Yes,,(434) 924-3627
+Virginia,VA,Fairfax,1850 Town Center Pkwy,Reston,20190,6340025,Reston Hospital Center,231,,1,,,,Yes,,1,,,,Yes,,(703) 689-9000
+Virginia,VA,Fairfax,3300 Gallows Rd,Falls Church,22042,6340490,Inova Fairfax Hospital,923,,1,,,,Yes,1,,,,,Yes,,(703) 776-2274
+Virginia,VA,Fredericksburg,1001 Sam Perry Blvd,Fredericksburg ,22401,6340290,Mary Washington Hospital,571,,1,,,,No,,1,,,,Yes,,(540) 741-1100
+Virginia,VA,Henrico,1602 Skipwith Rd,Richmond,23229,6340012,Henrico Doctors' Hospital,340,,1,,,,Yes,,1,,,,Yes,,(804) 289-4500
+Virginia,VA,Lynchburg,1901 Tate Springs Road,Lynchburg ,24501,6340013,Centra Lynchburg General Hospital,358,,1,,,,No,,1,,,,Yes,,(434) 200-4700
+Virginia,VA,Newport News,500 J Clyde Morris Blvd,Newport News,23601,6340520,Riverside Regional Medical Center,450,,1,,,,No,,1,,,,Yes,,(757) 594-2000
+Virginia,VA,Norfolk,601 Children's Ln,Norfolk,23507,6340578,Children's Hospital of The King's Daughters,206,,,1,,,No,,,1,,,Yes,,(757) 668-7000
+Virginia,VA,Norfolk,600 Gresham Dr,Norfolk,23507,6340620,Sentara Norfolk General Hospital (Burn Center at Sentara Norfolk General Hospital),525,16,1,,1,,No,1,,,,,Yes,Yes,(757) 388-3000
+Virginia,VA,Richmond City,7101 Jahnke Rd,Richmond,23225,6340009,Chippenham Hospital (Wound Healing Center),466,36,1,,1,1,Yes,,1,,,,Yes,Yes,(804) 483-0000
+Virginia,VA,Richmond City,1250 E Marshall St,Richmond,23298,6340860,VCU Medical Center (Evans-Haynes Burn Center),820,16,1,1,1,1,Yes,1,,1,,Yes,Yes,Yes,(804) 828-9000
+Virginia,VA,Roanoke City,1906 Belleview Ave,Roanoke,24014,6341040,Carilion Roanoke Memorial Hospital,703,,1,1,,,Yes,1,,1,,,Yes,,(540) 981-7000
+Virginia,VA,Winchester,1840 Amherst St,Winchester ,22601,6341200,Winchester Medical Center,495,,1,,,,No,,1,,,,Yes,,(540) 536-8000
+Washington,WA,Clark,400 NE Mother Joseph Pl,Vancouver,98664,6911130,PeaceHealth Southwest Medical Center,450,,1,,,,No,,1,,,,Yes,,(360) 514-2000
+Washington,WA,King,325 9th Ave,Seattle,98104,6910610,UW Medicine/Harborview Medical Center (UW Medicine Regional Burn Center at Harborview),413,40,1,1,1,1,No,1,,1,,Yes,Yes,,(206) 744-3000
+Washington,WA,Pierce,9040 Jackson Ave,Joint Base Lewis-McChord,98431,6911030,Madigan Army Medical Center Joint Base Lewis ,240,,1,,,,No,,1,,,,Yes,,(253) 968-1110
+Washington,WA,Pierce,315 Martin Luther King Jr Way,Tacoma,98405,6911018,Tacoma Trauma Center,405,,1,,,,No,,1,,,,Yes,,(253) 403-1000
+Washington,WA,Pierce,317 Martin Luther King Jr Way,Tacoma,98403,6911033,MultiCare Mary Bridge Children's Hospital and Health Center,82,,,1,,,No,,,,1,,Yes,,(253) 403-1400
+Washington,WA,Snohomish,1321 Colby Ave,Everett,98201,6910004,Providence Regional Medical Center Everett,491,,1,,,,No,,1,,,,Yes,,(425) 261-2000
+Washington,WA,Spokane,101 W 8th Ave,Spokane,99204,6910980,Providence Sacred Heart Medical Center & Children's Hospital,644,,1,1,,,No,,1,,1,,Yes,,(509) 474-3131
+Washington,WA,Whatcom,2901 Squalicum Pkwy,Bellingham,98225,6910001,PeaceHealth St. Joseph Medical Center ,253,,1,,,,No,,1,,,,Yes,,(360) 734-5400
+West Virginia,WV,Cabell,1340 Hal Greer Blvd,Huntington,25701,6350345,Cabell Huntington Hospital (Cabell Huntington Burn Intensive Care Unit),303,4,1,,1,,Yes ,,1,,,No,Yes,No,(304) 526-2000
+West Virginia,WV,Kanawha ,501 Morris St,Charleston,25301,6350120,Charleston Area Medical Center,956,,1,,,,Yes ,1,,,,,Yes,,(304) 388-5432
+West Virginia,WV,Cabell,2900 1st Ave,Huntington,25702,6350400,St. Mary's Medical Center - Huntington,393,,1,,,,Yes ,,1,,,,Yes,,(304) 526-1234
+West Virginia,WV,Monongalia ,1 Medical Center Dr,Morgantown,26505,6350007,West Virginia University Hospitals (J.W. Ruby Memorial Hospital),690,,1,1,,,Yes ,1,,,1,,Yes,,(304) 598-4000
+West Virginia,WV,Ohio,1 Medical Park,Wheeling,26003,6350830,Wheeling Hospital,223,,1,,,,Yes ,,1,,,,Yes,,(304) 243-3000
+Wisconsin,WI,Brown,2845 Greenbrier Rd,Green Bay,54311,6450021,Aurora BayCare Medical Center,167,,1,,,,Yes,,1,,,,Yes,,(920) 288-8000
+Wisconsin,WI,Brown,835 S Van Buren St,Green Bay,54301,6450450,HSHS St. Vincent Hospital,523,,1,,,,Yes,,1,,,,Yes,,(920) 433-0111
+Wisconsin,WI,Dane,700 S Park St,Madison,53715,6450810,SSM Health St. Mary's Hospital Madison,440,,1,,,,Yes,,1,,,,Yes,,(608) 251-6100
+Wisconsin,WI,Dane,600 Highland Ave,Madison,53792,6450820,University of Wisconsin Hospitals (UW Burn and Wound Center),471,11,1,1,1,1,Yes,1,,1,,Yes,Yes,,(608) 263-6400
+Wisconsin,WI,Eau Claire,1221 Whipple St,Eau Claire,54703,6450310,Mayo Clinic Health System Eau Claire,304,,1,,,,Yes,,1,,,,Yes,,(715) 838-3311
+Wisconsin,WI,La Crosse,1910 South Ave,La Crosse,54601,6450680,Gundersen Lutheran Medical Center,325,,1,,,,Yes,,1,,,,Yes,,(608) 782-7300
+Wisconsin,WI,Marathon,333 Pine Ridge Blvd,Wausau,54401,6452085,Aspirus Wausau Hospital,321,,1,,,,Yes,,1,,,,Yes,,(715) 847-2121
+Wisconsin,WI,Milwaukee,9000 W Wisconsin Ave,Milwaukee,53226,6451030,Children's Wisconsin (Children's Wisconsin Burn Program),306,5,1,1,,1,Yes,,,1,,No,Yes,,(414) 266-2000
+Wisconsin,WI,Milwaukee,9200 W Wisconsin Ave,Milwaukee,53226,6452115,Froedtert Hospital,702,,,,,,Yes,1,,,,,Yes,,(414) 805-3000
+Wisconsin,WI,Milwaukee,2301 North Lake Dr,Milwaukee,53211,6451130,Ascension Columbia St. Mary's Hospital Regional Burn Center,273,12,,,1,1,,,,,,No,,,(414) 585-1163
+Wisconsin,WI,Rock,1000 Mineral Point Ave,Janesville,53547,6450015,Mercyhealth Hospital and Trauma Center,240,,1,,,,Yes,,1,,,,Yes,,(608) 314-3605
+Wisconsin,WI,Waukesha,36500 Aurora Dr,Summit,53066,6450175,Aurora Medical Center Summit,117,,1,,,,Yes,,1,,,,Yes,,(262) 434-1000
+Wisconsin,WI,Winnebago,130 2nd St,Neenah,54956,6451290,ThedaCare Regional Medical Center - Neenah,150,,1,,,,Yes,,1,,,,Yes,,(920) 729-2155
+Wisconsin,WI,Wood,611 N Saint Joseph Ave,Marshfield,54449,6450860,Marshfield Medical Center,500,,1,1,,,Yes,,1,,1,,Yes,,(715) 387-1713

@@ -1,0 +1,106 @@
+---
+title: "Heatmap Hackathon"
+author: "Fortress Okorie"
+date: "3/5/2026"
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+# load in relevant packages 
+knitr::opts_chunk$set(warning=FALSE, message=FALSE)
+library(tidyverse)
+library(dplyr)
+library(ggplot2)
+library(readr)
+```
+
+```{r, label = "Load in Dataset"}
+# load in the datasets
+NIRD_data <- read_csv("~/Heatmap_Hackathon /Data/NIRD_data.csv")
+PopulationEstimates <- read_csv("~/Heatmap_Hackathon /Data/PopulationEstimates.csv")
+```
+
+```{r, label = "Tidying Population Data"}
+# pivot population data set
+# data set too large to pivot 
+
+PopulationEstimates_2 <- PopulationEstimates |>
+  filter(Attribute == "CENSUS_2020_POP") |> # filter for attribute we care about (CENSUS_2020_POP)
+  filter(str_detect(Area_Name, "County")) |> # remove every row without the word "county" since we want county level data
+  rename("County" = "Area_Name",
+         "Population" = "Value") |>
+  select(-Attribute)
+
+PopulationEstimates_2 |>
+  filter(County == "Autauga County")
+```
+
+```{r, label = "NIRD_data"}
+# NIRD_data county column does not have the word "County" making joins hard 
+NIRD_data$COUNTY <- paste(NIRD_data$COUNTY, "County")
+
+NIRD_data <- NIRD_data |>
+  rename("County" = "COUNTY")
+```
+
+```{r, label = "Join Population and NIRD data"}
+joined_data <- NIRD_data |>
+  left_join(PopulationEstimates_2, by = c("County" = "County", "STATE" = "State"), 
+             relationship = "many-to-one")
+```
+
+```{r, label = "tidyiing joined data"}
+# replace NA's with 0s and No where appropriate 
+joined_data <- joined_data |>
+  mutate(TRAUMA_ADULT = replace_na(TRAUMA_ADULT, 0),
+         TRAUMA_PEDS = replace_na(TRAUMA_PEDS, 0),
+         BURN_BEDS = replace_na(BURN_BEDS, 0), 
+         BURN_ADULT = replace_na(BURN_ADULT, 0),
+         BURN_PEDS = replace_na(BURN_PEDS, 0),
+         ACS_VERIFIED = replace_na(ACS_VERIFIED, "No"),
+         ADULT_TRAUMA_L1 = replace_na(ADULT_TRAUMA_L1, 0), 
+         ADULT_TRAUMA_L2 = replace_na(ADULT_TRAUMA_L2, 0),
+         PEDS_TRAUMA_L1 = replace_na(PEDS_TRAUMA_L1, 0),
+         PEDS_TRAUMA_L2 = replace_na(PEDS_TRAUMA_L2, 0)) |>
+  mutate(burn_beds_per_100k = (BURN_BEDS / Population) * 100000) |>
+  mutate(tot_beds_per_100k = (TOTAL_BEDS / Population) * 100000)
+```
+
+```{r, label = visualizations}
+# adding in county demographics 
+CountyClassifications <- read_csv("~/Heatmap_Hackathon /Data/CountyClassifications.csv")
+
+# tidy
+CountyClassifications <- CountyClassifications |>
+  rename("FIPS" = "(")
+
+joined_data <- joined_data |>
+  rename("FIPS" = "FIPStxt")
+
+# pivot county data and select rural uran classifiers 
+CountyClassifications <- CountyClassifications |>
+  pivot_wider(names_from = Attribute, values_from = Value) |>
+  select(FIPS, State, County, RuralUrbanContinuumCode2013, Metro2013, Metro_Adjacent2013, UrbanInfluenceCode2013, Micropolitan2013)
+
+CountyClassifications$County <- paste(CountyClassifications$County, "County")
+
+
+# join to existing joined data 
+
+joined_data_2 <- joined_data |>
+  left_join(CountyClassifications, by = c("FIPS", "STATE" = "State", "County"),
+            relationship = "many-to-one")
+
+#write_csv(joined_data_2, "~/Heatmap_Hackathon /Data/full_data_set_heatmap.csv")
+
+joined_data_2 <- joined_data_2 |>
+  select(-Metro2013, -Metro_Adjacent2013, -UrbanInfluenceCode2013, -Micropolitan2013) 
+
+joined_data_2 <- joined_data_2 |>
+  mutate(Rural_Urban = if_else(RuralUrbanContinuumCode2013 >= 1 & RuralUrbanContinuumCode2013 <= 3, "Urban", "Rural"))
+```
+
